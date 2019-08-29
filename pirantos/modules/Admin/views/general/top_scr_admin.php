@@ -126,6 +126,13 @@
                             </a>
                         </li>
 
+                        <li data-username="Saran" class="nav-item <?php if($uri1 == 'saran'){ echo 'active'; } ?>">
+                            <a href="<?php echo base_url('admin/saran') ?>" class="nav-link">
+                                <span class="pcoded-micon"><i class="feather icon-mail"></i></span><span
+                                    class="pcoded-mtext">Saran dan Masukan</span>
+                            </a>
+                        </li>
+
                         <li data-username="CONTACT US" class="nav-item <?php if($uri1 == 'contact'){ echo 'active'; } ?>">
                             <a href="<?php echo base_url('admin/contact') ?>" class="nav-link">
                                 <span class="pcoded-micon"><i class="feather icon-mail"></i></span><span

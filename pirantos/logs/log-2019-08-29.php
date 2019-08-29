@@ -15082,3 +15082,3932 @@ DEBUG - 2019-08-29 17:00:24 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin
 DEBUG - 2019-08-29 17:00:24 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
 INFO - 2019-08-29 17:00:24 --> Final output sent to browser
 DEBUG - 2019-08-29 17:00:24 --> Total execution time: 1.9635
+INFO - 2019-08-29 18:11:54 --> Config Class Initialized
+INFO - 2019-08-29 18:11:54 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:11:54 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:11:54 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:11:54 --> URI Class Initialized
+INFO - 2019-08-29 18:11:54 --> Router Class Initialized
+INFO - 2019-08-29 18:11:54 --> Output Class Initialized
+INFO - 2019-08-29 18:11:54 --> Security Class Initialized
+DEBUG - 2019-08-29 18:11:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:11:55 --> Input Class Initialized
+INFO - 2019-08-29 18:11:55 --> Language Class Initialized
+ERROR - 2019-08-29 18:11:55 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:12:04 --> Config Class Initialized
+INFO - 2019-08-29 18:12:04 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:12:04 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:12:04 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:12:04 --> URI Class Initialized
+INFO - 2019-08-29 18:12:04 --> Router Class Initialized
+INFO - 2019-08-29 18:12:04 --> Output Class Initialized
+INFO - 2019-08-29 18:12:05 --> Security Class Initialized
+DEBUG - 2019-08-29 18:12:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:12:05 --> Input Class Initialized
+INFO - 2019-08-29 18:12:05 --> Language Class Initialized
+INFO - 2019-08-29 18:12:05 --> Language Class Initialized
+INFO - 2019-08-29 18:12:05 --> Config Class Initialized
+INFO - 2019-08-29 18:12:05 --> Loader Class Initialized
+INFO - 2019-08-29 18:12:05 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:12:05 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:12:05 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:12:05 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:12:06 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:12:06 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:12:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:12:06 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:12:06 --> Controller Class Initialized
+INFO - 2019-08-29 18:13:21 --> Config Class Initialized
+INFO - 2019-08-29 18:13:21 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:13:21 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:13:21 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:13:21 --> URI Class Initialized
+INFO - 2019-08-29 18:13:21 --> Router Class Initialized
+INFO - 2019-08-29 18:13:21 --> Output Class Initialized
+INFO - 2019-08-29 18:13:21 --> Security Class Initialized
+DEBUG - 2019-08-29 18:13:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:13:21 --> Input Class Initialized
+INFO - 2019-08-29 18:13:21 --> Language Class Initialized
+INFO - 2019-08-29 18:13:22 --> Language Class Initialized
+INFO - 2019-08-29 18:13:22 --> Config Class Initialized
+INFO - 2019-08-29 18:13:22 --> Loader Class Initialized
+INFO - 2019-08-29 18:13:22 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:13:22 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:13:22 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:13:22 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:13:22 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:13:22 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:13:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:13:22 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:13:22 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:13:22 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/authenticate/views/login.php
+INFO - 2019-08-29 18:13:22 --> Final output sent to browser
+DEBUG - 2019-08-29 18:13:22 --> Total execution time: 1.3770
+INFO - 2019-08-29 18:13:23 --> Config Class Initialized
+INFO - 2019-08-29 18:13:23 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:13:23 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:13:23 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:13:23 --> URI Class Initialized
+INFO - 2019-08-29 18:13:23 --> Router Class Initialized
+INFO - 2019-08-29 18:13:23 --> Output Class Initialized
+INFO - 2019-08-29 18:13:23 --> Security Class Initialized
+DEBUG - 2019-08-29 18:13:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:13:23 --> Input Class Initialized
+INFO - 2019-08-29 18:13:23 --> Language Class Initialized
+ERROR - 2019-08-29 18:13:23 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:14:05 --> Config Class Initialized
+INFO - 2019-08-29 18:14:05 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:14:05 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:14:05 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:14:05 --> URI Class Initialized
+INFO - 2019-08-29 18:14:05 --> Router Class Initialized
+INFO - 2019-08-29 18:14:05 --> Output Class Initialized
+INFO - 2019-08-29 18:14:05 --> Security Class Initialized
+DEBUG - 2019-08-29 18:14:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:14:05 --> Input Class Initialized
+INFO - 2019-08-29 18:14:05 --> Language Class Initialized
+INFO - 2019-08-29 18:14:05 --> Language Class Initialized
+INFO - 2019-08-29 18:14:05 --> Config Class Initialized
+INFO - 2019-08-29 18:14:05 --> Loader Class Initialized
+INFO - 2019-08-29 18:14:05 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:14:05 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:14:06 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:14:06 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:14:06 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:14:06 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:14:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:14:06 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:14:06 --> Controller Class Initialized
+INFO - 2019-08-29 18:14:06 --> Final output sent to browser
+DEBUG - 2019-08-29 18:14:06 --> Total execution time: 1.2223
+INFO - 2019-08-29 18:14:08 --> Config Class Initialized
+INFO - 2019-08-29 18:14:08 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:14:08 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:14:08 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:14:09 --> URI Class Initialized
+INFO - 2019-08-29 18:14:09 --> Router Class Initialized
+INFO - 2019-08-29 18:14:09 --> Output Class Initialized
+INFO - 2019-08-29 18:14:09 --> Security Class Initialized
+DEBUG - 2019-08-29 18:14:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:14:09 --> Input Class Initialized
+INFO - 2019-08-29 18:14:09 --> Language Class Initialized
+INFO - 2019-08-29 18:14:09 --> Language Class Initialized
+INFO - 2019-08-29 18:14:09 --> Config Class Initialized
+INFO - 2019-08-29 18:14:09 --> Loader Class Initialized
+INFO - 2019-08-29 18:14:09 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:14:09 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:14:09 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:14:09 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:14:09 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:14:09 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:14:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:14:09 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:14:10 --> Controller Class Initialized
+INFO - 2019-08-29 18:14:10 --> Config Class Initialized
+INFO - 2019-08-29 18:14:10 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:14:10 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:14:10 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:14:10 --> URI Class Initialized
+INFO - 2019-08-29 18:14:10 --> Router Class Initialized
+INFO - 2019-08-29 18:14:10 --> Output Class Initialized
+INFO - 2019-08-29 18:14:10 --> Security Class Initialized
+DEBUG - 2019-08-29 18:14:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:14:10 --> Input Class Initialized
+INFO - 2019-08-29 18:14:10 --> Language Class Initialized
+INFO - 2019-08-29 18:14:10 --> Language Class Initialized
+INFO - 2019-08-29 18:14:10 --> Config Class Initialized
+INFO - 2019-08-29 18:14:10 --> Loader Class Initialized
+INFO - 2019-08-29 18:14:10 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:14:11 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:14:11 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:14:11 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:14:11 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:14:11 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:14:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:14:11 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:14:11 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:14:11 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/dashboard/dashboard.php
+ERROR - 2019-08-29 18:14:11 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:14:11 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:14:11 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:14:12 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:14:12 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:14:12 --> Final output sent to browser
+DEBUG - 2019-08-29 18:14:12 --> Total execution time: 2.0015
+INFO - 2019-08-29 18:14:12 --> Config Class Initialized
+INFO - 2019-08-29 18:14:12 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:14:12 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:14:12 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:14:12 --> URI Class Initialized
+INFO - 2019-08-29 18:14:12 --> Config Class Initialized
+INFO - 2019-08-29 18:14:13 --> Hooks Class Initialized
+INFO - 2019-08-29 18:14:13 --> Config Class Initialized
+INFO - 2019-08-29 18:14:13 --> Router Class Initialized
+DEBUG - 2019-08-29 18:14:13 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:14:13 --> Hooks Class Initialized
+INFO - 2019-08-29 18:14:13 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:14:13 --> Output Class Initialized
+DEBUG - 2019-08-29 18:14:13 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:14:13 --> URI Class Initialized
+INFO - 2019-08-29 18:14:13 --> Security Class Initialized
+INFO - 2019-08-29 18:14:13 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:14:13 --> Router Class Initialized
+INFO - 2019-08-29 18:14:13 --> URI Class Initialized
+DEBUG - 2019-08-29 18:14:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:14:13 --> Output Class Initialized
+INFO - 2019-08-29 18:14:13 --> Input Class Initialized
+INFO - 2019-08-29 18:14:13 --> Router Class Initialized
+INFO - 2019-08-29 18:14:13 --> Language Class Initialized
+INFO - 2019-08-29 18:14:13 --> Security Class Initialized
+INFO - 2019-08-29 18:14:13 --> Output Class Initialized
+DEBUG - 2019-08-29 18:14:13 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-08-29 18:14:13 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:14:13 --> Security Class Initialized
+INFO - 2019-08-29 18:14:13 --> Input Class Initialized
+INFO - 2019-08-29 18:14:14 --> Language Class Initialized
+DEBUG - 2019-08-29 18:14:14 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-08-29 18:14:14 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:14:14 --> Input Class Initialized
+INFO - 2019-08-29 18:14:14 --> Language Class Initialized
+ERROR - 2019-08-29 18:14:14 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:14:24 --> Config Class Initialized
+INFO - 2019-08-29 18:14:24 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:14:24 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:14:24 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:14:25 --> URI Class Initialized
+INFO - 2019-08-29 18:14:25 --> Router Class Initialized
+INFO - 2019-08-29 18:14:25 --> Output Class Initialized
+INFO - 2019-08-29 18:14:25 --> Security Class Initialized
+DEBUG - 2019-08-29 18:14:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:14:25 --> Input Class Initialized
+INFO - 2019-08-29 18:14:25 --> Language Class Initialized
+ERROR - 2019-08-29 18:14:25 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:14:26 --> Config Class Initialized
+INFO - 2019-08-29 18:14:26 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:14:26 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:14:26 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:14:26 --> URI Class Initialized
+INFO - 2019-08-29 18:14:26 --> Router Class Initialized
+INFO - 2019-08-29 18:14:26 --> Output Class Initialized
+INFO - 2019-08-29 18:14:26 --> Security Class Initialized
+DEBUG - 2019-08-29 18:14:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:14:26 --> Input Class Initialized
+INFO - 2019-08-29 18:14:26 --> Language Class Initialized
+INFO - 2019-08-29 18:14:26 --> Language Class Initialized
+INFO - 2019-08-29 18:14:26 --> Config Class Initialized
+INFO - 2019-08-29 18:14:26 --> Loader Class Initialized
+INFO - 2019-08-29 18:14:27 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:14:27 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:14:27 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:14:27 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:14:27 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:14:27 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:14:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:14:27 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:14:27 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:14:27 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/dashboard/dashboard.php
+ERROR - 2019-08-29 18:14:27 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:14:27 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:14:27 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:14:28 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:14:28 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:14:28 --> Final output sent to browser
+DEBUG - 2019-08-29 18:14:28 --> Total execution time: 2.1168
+INFO - 2019-08-29 18:14:59 --> Config Class Initialized
+INFO - 2019-08-29 18:14:59 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:14:59 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:14:59 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:14:59 --> URI Class Initialized
+INFO - 2019-08-29 18:14:59 --> Router Class Initialized
+INFO - 2019-08-29 18:14:59 --> Output Class Initialized
+INFO - 2019-08-29 18:14:59 --> Security Class Initialized
+DEBUG - 2019-08-29 18:14:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:14:59 --> Input Class Initialized
+INFO - 2019-08-29 18:14:59 --> Language Class Initialized
+INFO - 2019-08-29 18:15:00 --> Language Class Initialized
+INFO - 2019-08-29 18:15:00 --> Config Class Initialized
+INFO - 2019-08-29 18:15:00 --> Loader Class Initialized
+INFO - 2019-08-29 18:15:00 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:15:00 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:15:00 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:15:00 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:15:00 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:15:00 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:15:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:15:00 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:15:00 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:15:00 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/dashboard/dashboard.php
+ERROR - 2019-08-29 18:15:00 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:15:01 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:15:01 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:15:01 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:15:01 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:15:01 --> Final output sent to browser
+DEBUG - 2019-08-29 18:15:01 --> Total execution time: 1.8344
+INFO - 2019-08-29 18:15:04 --> Config Class Initialized
+INFO - 2019-08-29 18:15:04 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:15:04 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:15:04 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:15:04 --> URI Class Initialized
+INFO - 2019-08-29 18:15:04 --> Router Class Initialized
+INFO - 2019-08-29 18:15:04 --> Output Class Initialized
+INFO - 2019-08-29 18:15:04 --> Security Class Initialized
+DEBUG - 2019-08-29 18:15:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:15:04 --> Input Class Initialized
+INFO - 2019-08-29 18:15:04 --> Language Class Initialized
+INFO - 2019-08-29 18:15:05 --> Language Class Initialized
+INFO - 2019-08-29 18:15:05 --> Config Class Initialized
+INFO - 2019-08-29 18:15:05 --> Loader Class Initialized
+INFO - 2019-08-29 18:15:05 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:15:05 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:15:05 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:15:05 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:15:05 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:15:05 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:15:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:15:05 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:15:05 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:15:05 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/dashboard/dashboard.php
+ERROR - 2019-08-29 18:15:05 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:15:05 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:15:05 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:15:06 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:15:06 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:15:06 --> Final output sent to browser
+DEBUG - 2019-08-29 18:15:06 --> Total execution time: 1.7909
+INFO - 2019-08-29 18:15:09 --> Config Class Initialized
+INFO - 2019-08-29 18:15:09 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:15:09 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:15:09 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:15:09 --> URI Class Initialized
+INFO - 2019-08-29 18:15:09 --> Router Class Initialized
+INFO - 2019-08-29 18:15:09 --> Output Class Initialized
+INFO - 2019-08-29 18:15:09 --> Security Class Initialized
+DEBUG - 2019-08-29 18:15:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:15:10 --> Input Class Initialized
+INFO - 2019-08-29 18:15:10 --> Language Class Initialized
+INFO - 2019-08-29 18:15:10 --> Language Class Initialized
+INFO - 2019-08-29 18:15:10 --> Config Class Initialized
+INFO - 2019-08-29 18:15:10 --> Loader Class Initialized
+INFO - 2019-08-29 18:15:10 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:15:10 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:15:10 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:15:10 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:15:10 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:15:10 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:15:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:15:10 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:15:10 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:15:11 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/dashboard/dashboard.php
+ERROR - 2019-08-29 18:15:11 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:15:11 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:15:11 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:15:11 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:15:11 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:15:11 --> Final output sent to browser
+DEBUG - 2019-08-29 18:15:11 --> Total execution time: 2.1087
+INFO - 2019-08-29 18:15:22 --> Config Class Initialized
+INFO - 2019-08-29 18:15:22 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:15:22 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:15:22 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:15:22 --> URI Class Initialized
+INFO - 2019-08-29 18:15:22 --> Router Class Initialized
+INFO - 2019-08-29 18:15:22 --> Output Class Initialized
+INFO - 2019-08-29 18:15:22 --> Security Class Initialized
+DEBUG - 2019-08-29 18:15:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:15:22 --> Input Class Initialized
+INFO - 2019-08-29 18:15:23 --> Language Class Initialized
+INFO - 2019-08-29 18:15:23 --> Language Class Initialized
+INFO - 2019-08-29 18:15:23 --> Config Class Initialized
+INFO - 2019-08-29 18:15:23 --> Loader Class Initialized
+INFO - 2019-08-29 18:15:23 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:15:23 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:15:23 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:15:23 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:15:23 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:15:23 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:15:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:15:23 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:15:23 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:15:23 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/dashboard/dashboard.php
+ERROR - 2019-08-29 18:15:23 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:15:23 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:15:23 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:15:23 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:15:24 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:15:24 --> Final output sent to browser
+DEBUG - 2019-08-29 18:15:24 --> Total execution time: 1.4939
+INFO - 2019-08-29 18:16:12 --> Config Class Initialized
+INFO - 2019-08-29 18:16:12 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:16:13 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:16:13 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:16:13 --> URI Class Initialized
+INFO - 2019-08-29 18:16:13 --> Router Class Initialized
+INFO - 2019-08-29 18:16:13 --> Output Class Initialized
+INFO - 2019-08-29 18:16:13 --> Security Class Initialized
+DEBUG - 2019-08-29 18:16:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:16:13 --> Input Class Initialized
+INFO - 2019-08-29 18:16:13 --> Config Class Initialized
+INFO - 2019-08-29 18:16:13 --> Language Class Initialized
+INFO - 2019-08-29 18:16:13 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:16:13 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:16:13 --> Language Class Initialized
+INFO - 2019-08-29 18:16:13 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:16:13 --> Config Class Initialized
+INFO - 2019-08-29 18:16:13 --> URI Class Initialized
+INFO - 2019-08-29 18:16:13 --> Loader Class Initialized
+INFO - 2019-08-29 18:16:13 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:16:13 --> Router Class Initialized
+INFO - 2019-08-29 18:16:13 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:16:13 --> Output Class Initialized
+INFO - 2019-08-29 18:16:13 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:16:13 --> Security Class Initialized
+INFO - 2019-08-29 18:16:14 --> Helper loaded: pitulungan_helper
+DEBUG - 2019-08-29 18:16:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:16:14 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:16:14 --> Input Class Initialized
+INFO - 2019-08-29 18:16:14 --> Language Class Initialized
+INFO - 2019-08-29 18:16:14 --> Database Driver Class Initialized
+INFO - 2019-08-29 18:16:14 --> Language Class Initialized
+DEBUG - 2019-08-29 18:16:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:16:14 --> Config Class Initialized
+INFO - 2019-08-29 18:16:14 --> Loader Class Initialized
+INFO - 2019-08-29 18:16:14 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:16:14 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:16:14 --> Controller Class Initialized
+INFO - 2019-08-29 18:16:14 --> Helper loaded: file_helper
+DEBUG - 2019-08-29 18:16:14 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/dashboard/dashboard.php
+INFO - 2019-08-29 18:16:14 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:16:14 --> Helper loaded: pitulungan_helper
+ERROR - 2019-08-29 18:16:14 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+INFO - 2019-08-29 18:16:14 --> Helper loaded: form_generator_helper
+ERROR - 2019-08-29 18:16:14 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+INFO - 2019-08-29 18:16:14 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:16:14 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:16:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2019-08-29 18:16:15 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:16:15 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:16:15 --> Final output sent to browser
+DEBUG - 2019-08-29 18:16:15 --> Total execution time: 2.3054
+INFO - 2019-08-29 18:16:15 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:16:15 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:16:15 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/dashboard/dashboard.php
+ERROR - 2019-08-29 18:16:15 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:16:15 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:16:15 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:16:15 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:16:15 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:16:15 --> Final output sent to browser
+INFO - 2019-08-29 18:16:15 --> Config Class Initialized
+DEBUG - 2019-08-29 18:16:15 --> Total execution time: 2.2720
+INFO - 2019-08-29 18:16:15 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:16:15 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:16:16 --> Config Class Initialized
+INFO - 2019-08-29 18:16:16 --> Config Class Initialized
+INFO - 2019-08-29 18:16:16 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:16:16 --> Hooks Class Initialized
+INFO - 2019-08-29 18:16:16 --> Hooks Class Initialized
+INFO - 2019-08-29 18:16:16 --> URI Class Initialized
+DEBUG - 2019-08-29 18:16:16 --> UTF-8 Support Enabled
+DEBUG - 2019-08-29 18:16:16 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:16:16 --> Router Class Initialized
+INFO - 2019-08-29 18:16:16 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:16:16 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:16:16 --> Output Class Initialized
+INFO - 2019-08-29 18:16:16 --> URI Class Initialized
+INFO - 2019-08-29 18:16:16 --> URI Class Initialized
+INFO - 2019-08-29 18:16:16 --> Security Class Initialized
+INFO - 2019-08-29 18:16:16 --> Router Class Initialized
+INFO - 2019-08-29 18:16:16 --> Router Class Initialized
+DEBUG - 2019-08-29 18:16:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:16:16 --> Output Class Initialized
+INFO - 2019-08-29 18:16:16 --> Output Class Initialized
+INFO - 2019-08-29 18:16:16 --> Input Class Initialized
+INFO - 2019-08-29 18:16:16 --> Security Class Initialized
+INFO - 2019-08-29 18:16:16 --> Security Class Initialized
+INFO - 2019-08-29 18:16:16 --> Language Class Initialized
+DEBUG - 2019-08-29 18:16:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-08-29 18:16:16 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-08-29 18:16:16 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:16:16 --> Input Class Initialized
+INFO - 2019-08-29 18:16:16 --> Input Class Initialized
+INFO - 2019-08-29 18:16:17 --> Language Class Initialized
+INFO - 2019-08-29 18:16:17 --> Language Class Initialized
+ERROR - 2019-08-29 18:16:17 --> 404 Page Not Found: /index
+ERROR - 2019-08-29 18:16:17 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:16:18 --> Config Class Initialized
+INFO - 2019-08-29 18:16:18 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:16:18 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:16:18 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:16:18 --> URI Class Initialized
+INFO - 2019-08-29 18:16:18 --> Router Class Initialized
+INFO - 2019-08-29 18:16:18 --> Output Class Initialized
+INFO - 2019-08-29 18:16:18 --> Security Class Initialized
+DEBUG - 2019-08-29 18:16:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:16:18 --> Input Class Initialized
+INFO - 2019-08-29 18:16:18 --> Language Class Initialized
+ERROR - 2019-08-29 18:16:18 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:16:19 --> Config Class Initialized
+INFO - 2019-08-29 18:16:19 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:16:19 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:16:19 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:16:19 --> URI Class Initialized
+INFO - 2019-08-29 18:16:19 --> Router Class Initialized
+INFO - 2019-08-29 18:16:19 --> Output Class Initialized
+INFO - 2019-08-29 18:16:19 --> Security Class Initialized
+DEBUG - 2019-08-29 18:16:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:16:19 --> Input Class Initialized
+INFO - 2019-08-29 18:16:19 --> Language Class Initialized
+INFO - 2019-08-29 18:16:19 --> Language Class Initialized
+INFO - 2019-08-29 18:16:19 --> Config Class Initialized
+INFO - 2019-08-29 18:16:19 --> Loader Class Initialized
+INFO - 2019-08-29 18:16:19 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:16:19 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:16:20 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:16:20 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:16:20 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:16:20 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:16:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:16:20 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:16:20 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:16:20 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/dashboard/dashboard.php
+ERROR - 2019-08-29 18:16:20 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:16:20 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:16:20 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:16:20 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:16:20 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:16:20 --> Final output sent to browser
+DEBUG - 2019-08-29 18:16:20 --> Total execution time: 1.6030
+INFO - 2019-08-29 18:16:25 --> Config Class Initialized
+INFO - 2019-08-29 18:16:25 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:16:25 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:16:25 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:16:25 --> URI Class Initialized
+INFO - 2019-08-29 18:16:25 --> Router Class Initialized
+INFO - 2019-08-29 18:16:25 --> Output Class Initialized
+INFO - 2019-08-29 18:16:25 --> Security Class Initialized
+DEBUG - 2019-08-29 18:16:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:16:25 --> Input Class Initialized
+INFO - 2019-08-29 18:16:25 --> Language Class Initialized
+INFO - 2019-08-29 18:16:26 --> Language Class Initialized
+INFO - 2019-08-29 18:16:26 --> Config Class Initialized
+INFO - 2019-08-29 18:16:26 --> Loader Class Initialized
+INFO - 2019-08-29 18:16:26 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:16:26 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:16:26 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:16:26 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:16:26 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:16:26 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:16:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:16:26 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:16:26 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:16:26 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/dashboard/dashboard.php
+ERROR - 2019-08-29 18:16:26 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:16:26 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:16:26 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:16:26 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:16:26 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:16:26 --> Final output sent to browser
+DEBUG - 2019-08-29 18:16:26 --> Total execution time: 1.4582
+INFO - 2019-08-29 18:16:35 --> Config Class Initialized
+INFO - 2019-08-29 18:16:35 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:16:35 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:16:36 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:16:36 --> URI Class Initialized
+INFO - 2019-08-29 18:16:36 --> Router Class Initialized
+INFO - 2019-08-29 18:16:36 --> Output Class Initialized
+INFO - 2019-08-29 18:16:36 --> Security Class Initialized
+DEBUG - 2019-08-29 18:16:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:16:36 --> Input Class Initialized
+INFO - 2019-08-29 18:16:36 --> Language Class Initialized
+INFO - 2019-08-29 18:16:36 --> Language Class Initialized
+INFO - 2019-08-29 18:16:36 --> Config Class Initialized
+INFO - 2019-08-29 18:16:36 --> Loader Class Initialized
+INFO - 2019-08-29 18:16:36 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:16:36 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:16:36 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:16:36 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:16:36 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:16:36 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:16:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:16:36 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:16:37 --> Controller Class Initialized
+INFO - 2019-08-29 18:16:37 --> Config Class Initialized
+DEBUG - 2019-08-29 18:16:37 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/dashboard/dashboard.php
+INFO - 2019-08-29 18:16:37 --> Hooks Class Initialized
+ERROR - 2019-08-29 18:16:37 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:16:37 --> UTF-8 Support Enabled
+ERROR - 2019-08-29 18:16:37 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+INFO - 2019-08-29 18:16:37 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:16:37 --> URI Class Initialized
+DEBUG - 2019-08-29 18:16:37 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:16:37 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+INFO - 2019-08-29 18:16:37 --> Router Class Initialized
+DEBUG - 2019-08-29 18:16:37 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:16:37 --> Final output sent to browser
+INFO - 2019-08-29 18:16:37 --> Output Class Initialized
+DEBUG - 2019-08-29 18:16:37 --> Total execution time: 1.6330
+INFO - 2019-08-29 18:16:37 --> Security Class Initialized
+DEBUG - 2019-08-29 18:16:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:16:37 --> Input Class Initialized
+INFO - 2019-08-29 18:16:37 --> Language Class Initialized
+ERROR - 2019-08-29 18:16:37 --> 404 Page Not Found: ../modules/admin/controllers/Admin/saran
+INFO - 2019-08-29 18:18:06 --> Config Class Initialized
+INFO - 2019-08-29 18:18:06 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:18:07 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:18:07 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:18:07 --> URI Class Initialized
+INFO - 2019-08-29 18:18:07 --> Router Class Initialized
+INFO - 2019-08-29 18:18:07 --> Output Class Initialized
+INFO - 2019-08-29 18:18:07 --> Security Class Initialized
+DEBUG - 2019-08-29 18:18:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:18:07 --> Input Class Initialized
+INFO - 2019-08-29 18:18:07 --> Language Class Initialized
+INFO - 2019-08-29 18:18:07 --> Language Class Initialized
+INFO - 2019-08-29 18:18:07 --> Config Class Initialized
+INFO - 2019-08-29 18:18:07 --> Loader Class Initialized
+INFO - 2019-08-29 18:18:07 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:18:07 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:18:07 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:18:07 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:18:07 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:18:07 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:18:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:18:08 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:18:08 --> Controller Class Initialized
+INFO - 2019-08-29 18:18:10 --> Config Class Initialized
+INFO - 2019-08-29 18:18:10 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:18:10 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:18:10 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:18:10 --> URI Class Initialized
+INFO - 2019-08-29 18:18:10 --> Router Class Initialized
+INFO - 2019-08-29 18:18:10 --> Output Class Initialized
+INFO - 2019-08-29 18:18:10 --> Security Class Initialized
+DEBUG - 2019-08-29 18:18:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:18:11 --> Input Class Initialized
+INFO - 2019-08-29 18:18:11 --> Language Class Initialized
+INFO - 2019-08-29 18:18:11 --> Language Class Initialized
+INFO - 2019-08-29 18:18:11 --> Config Class Initialized
+INFO - 2019-08-29 18:18:11 --> Loader Class Initialized
+INFO - 2019-08-29 18:18:11 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:18:11 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:18:11 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:18:11 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:18:11 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:18:11 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:18:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:18:11 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:18:11 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:18:11 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/dashboard/dashboard.php
+ERROR - 2019-08-29 18:18:11 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:18:11 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:18:12 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:18:12 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:18:12 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:18:12 --> Final output sent to browser
+DEBUG - 2019-08-29 18:18:12 --> Total execution time: 1.6293
+INFO - 2019-08-29 18:18:14 --> Config Class Initialized
+INFO - 2019-08-29 18:18:14 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:18:14 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:18:14 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:18:14 --> URI Class Initialized
+INFO - 2019-08-29 18:18:14 --> Router Class Initialized
+INFO - 2019-08-29 18:18:14 --> Config Class Initialized
+INFO - 2019-08-29 18:18:14 --> Output Class Initialized
+INFO - 2019-08-29 18:18:14 --> Hooks Class Initialized
+INFO - 2019-08-29 18:18:14 --> Security Class Initialized
+DEBUG - 2019-08-29 18:18:14 --> UTF-8 Support Enabled
+DEBUG - 2019-08-29 18:18:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:18:14 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:18:14 --> Input Class Initialized
+INFO - 2019-08-29 18:18:14 --> URI Class Initialized
+INFO - 2019-08-29 18:18:14 --> Language Class Initialized
+INFO - 2019-08-29 18:18:15 --> Router Class Initialized
+INFO - 2019-08-29 18:18:15 --> Language Class Initialized
+INFO - 2019-08-29 18:18:15 --> Output Class Initialized
+INFO - 2019-08-29 18:18:15 --> Config Class Initialized
+INFO - 2019-08-29 18:18:15 --> Loader Class Initialized
+INFO - 2019-08-29 18:18:15 --> Security Class Initialized
+INFO - 2019-08-29 18:18:15 --> Helper loaded: url_helper
+DEBUG - 2019-08-29 18:18:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:18:15 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:18:15 --> Input Class Initialized
+INFO - 2019-08-29 18:18:15 --> Language Class Initialized
+INFO - 2019-08-29 18:18:15 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:18:15 --> Language Class Initialized
+INFO - 2019-08-29 18:18:15 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:18:15 --> Config Class Initialized
+INFO - 2019-08-29 18:18:15 --> Loader Class Initialized
+INFO - 2019-08-29 18:18:15 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:18:15 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:18:15 --> Database Driver Class Initialized
+INFO - 2019-08-29 18:18:15 --> Helper loaded: file_helper
+DEBUG - 2019-08-29 18:18:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:18:15 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:18:15 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:18:16 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:18:16 --> Controller Class Initialized
+INFO - 2019-08-29 18:18:16 --> Helper loaded: form_generator_helper
+DEBUG - 2019-08-29 18:18:16 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/dashboard/dashboard.php
+INFO - 2019-08-29 18:18:16 --> Database Driver Class Initialized
+ERROR - 2019-08-29 18:18:16 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:18:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+ERROR - 2019-08-29 18:18:16 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:18:16 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:18:16 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:18:16 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:18:16 --> Final output sent to browser
+DEBUG - 2019-08-29 18:18:16 --> Total execution time: 2.6099
+INFO - 2019-08-29 18:18:16 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:18:16 --> Controller Class Initialized
+INFO - 2019-08-29 18:19:24 --> Config Class Initialized
+INFO - 2019-08-29 18:19:24 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:19:24 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:19:24 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:19:24 --> URI Class Initialized
+INFO - 2019-08-29 18:19:24 --> Router Class Initialized
+INFO - 2019-08-29 18:19:24 --> Output Class Initialized
+INFO - 2019-08-29 18:19:24 --> Security Class Initialized
+DEBUG - 2019-08-29 18:19:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:19:24 --> Input Class Initialized
+INFO - 2019-08-29 18:19:24 --> Language Class Initialized
+INFO - 2019-08-29 18:19:24 --> Language Class Initialized
+INFO - 2019-08-29 18:19:25 --> Config Class Initialized
+INFO - 2019-08-29 18:19:25 --> Loader Class Initialized
+INFO - 2019-08-29 18:19:25 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:19:25 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:19:25 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:19:25 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:19:25 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:19:25 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:19:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:19:25 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:19:25 --> Controller Class Initialized
+INFO - 2019-08-29 18:19:25 --> Config Class Initialized
+INFO - 2019-08-29 18:19:25 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:19:25 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:19:25 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:19:25 --> URI Class Initialized
+INFO - 2019-08-29 18:19:25 --> Router Class Initialized
+INFO - 2019-08-29 18:19:25 --> Output Class Initialized
+INFO - 2019-08-29 18:19:26 --> Security Class Initialized
+DEBUG - 2019-08-29 18:19:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:19:26 --> Input Class Initialized
+INFO - 2019-08-29 18:19:26 --> Language Class Initialized
+INFO - 2019-08-29 18:19:26 --> Language Class Initialized
+INFO - 2019-08-29 18:19:26 --> Config Class Initialized
+INFO - 2019-08-29 18:19:26 --> Loader Class Initialized
+INFO - 2019-08-29 18:19:26 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:19:26 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:19:26 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:19:26 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:19:26 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:19:26 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:19:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:19:26 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:19:26 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:19:26 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/dashboard/dashboard.php
+ERROR - 2019-08-29 18:19:26 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:19:26 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:19:27 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:19:27 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:19:27 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:19:27 --> Final output sent to browser
+DEBUG - 2019-08-29 18:19:27 --> Total execution time: 1.5066
+INFO - 2019-08-29 18:19:27 --> Config Class Initialized
+INFO - 2019-08-29 18:19:27 --> Hooks Class Initialized
+INFO - 2019-08-29 18:19:27 --> Config Class Initialized
+DEBUG - 2019-08-29 18:19:27 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:19:27 --> Config Class Initialized
+INFO - 2019-08-29 18:19:27 --> Hooks Class Initialized
+INFO - 2019-08-29 18:19:27 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:19:27 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:19:27 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:19:27 --> URI Class Initialized
+DEBUG - 2019-08-29 18:19:27 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:19:27 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:19:27 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:19:27 --> URI Class Initialized
+INFO - 2019-08-29 18:19:27 --> Router Class Initialized
+INFO - 2019-08-29 18:19:28 --> URI Class Initialized
+INFO - 2019-08-29 18:19:28 --> Output Class Initialized
+INFO - 2019-08-29 18:19:28 --> Router Class Initialized
+INFO - 2019-08-29 18:19:28 --> Router Class Initialized
+INFO - 2019-08-29 18:19:28 --> Security Class Initialized
+INFO - 2019-08-29 18:19:28 --> Output Class Initialized
+INFO - 2019-08-29 18:19:28 --> Output Class Initialized
+INFO - 2019-08-29 18:19:28 --> Security Class Initialized
+DEBUG - 2019-08-29 18:19:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:19:28 --> Security Class Initialized
+INFO - 2019-08-29 18:19:28 --> Input Class Initialized
+DEBUG - 2019-08-29 18:19:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-08-29 18:19:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:19:28 --> Language Class Initialized
+INFO - 2019-08-29 18:19:28 --> Input Class Initialized
+INFO - 2019-08-29 18:19:28 --> Input Class Initialized
+INFO - 2019-08-29 18:19:28 --> Language Class Initialized
+ERROR - 2019-08-29 18:19:28 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:19:28 --> Language Class Initialized
+ERROR - 2019-08-29 18:19:28 --> 404 Page Not Found: /index
+ERROR - 2019-08-29 18:19:28 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:19:31 --> Config Class Initialized
+INFO - 2019-08-29 18:19:31 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:19:31 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:19:31 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:19:31 --> URI Class Initialized
+INFO - 2019-08-29 18:19:31 --> Router Class Initialized
+INFO - 2019-08-29 18:19:31 --> Output Class Initialized
+INFO - 2019-08-29 18:19:31 --> Security Class Initialized
+DEBUG - 2019-08-29 18:19:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:19:31 --> Input Class Initialized
+INFO - 2019-08-29 18:19:31 --> Language Class Initialized
+ERROR - 2019-08-29 18:19:31 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:19:32 --> Config Class Initialized
+INFO - 2019-08-29 18:19:32 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:19:32 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:19:32 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:19:32 --> URI Class Initialized
+INFO - 2019-08-29 18:19:32 --> Router Class Initialized
+INFO - 2019-08-29 18:19:32 --> Output Class Initialized
+INFO - 2019-08-29 18:19:32 --> Security Class Initialized
+DEBUG - 2019-08-29 18:19:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:19:32 --> Input Class Initialized
+INFO - 2019-08-29 18:19:32 --> Language Class Initialized
+INFO - 2019-08-29 18:19:33 --> Language Class Initialized
+INFO - 2019-08-29 18:19:33 --> Config Class Initialized
+INFO - 2019-08-29 18:19:33 --> Loader Class Initialized
+INFO - 2019-08-29 18:19:33 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:19:33 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:19:33 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:19:33 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:19:33 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:19:33 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:19:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:19:33 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:19:33 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:19:33 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/dashboard/dashboard.php
+ERROR - 2019-08-29 18:19:33 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:19:33 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:19:33 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:19:34 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:19:34 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:19:34 --> Final output sent to browser
+DEBUG - 2019-08-29 18:19:34 --> Total execution time: 2.0503
+INFO - 2019-08-29 18:20:34 --> Config Class Initialized
+INFO - 2019-08-29 18:20:34 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:20:34 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:20:34 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:20:34 --> URI Class Initialized
+INFO - 2019-08-29 18:20:34 --> Router Class Initialized
+INFO - 2019-08-29 18:20:34 --> Output Class Initialized
+INFO - 2019-08-29 18:20:34 --> Security Class Initialized
+DEBUG - 2019-08-29 18:20:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:20:34 --> Input Class Initialized
+INFO - 2019-08-29 18:20:34 --> Language Class Initialized
+INFO - 2019-08-29 18:20:34 --> Language Class Initialized
+INFO - 2019-08-29 18:20:34 --> Config Class Initialized
+INFO - 2019-08-29 18:20:34 --> Loader Class Initialized
+INFO - 2019-08-29 18:20:34 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:20:34 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:20:34 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:20:35 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:20:35 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:20:35 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:20:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:20:35 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:20:35 --> Config Class Initialized
+INFO - 2019-08-29 18:20:35 --> Controller Class Initialized
+INFO - 2019-08-29 18:20:35 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:20:35 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/dashboard/dashboard.php
+DEBUG - 2019-08-29 18:20:35 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:20:35 --> Utf8 Class Initialized
+ERROR - 2019-08-29 18:20:35 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+INFO - 2019-08-29 18:20:35 --> URI Class Initialized
+ERROR - 2019-08-29 18:20:35 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+INFO - 2019-08-29 18:20:35 --> Router Class Initialized
+DEBUG - 2019-08-29 18:20:35 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+INFO - 2019-08-29 18:20:35 --> Output Class Initialized
+DEBUG - 2019-08-29 18:20:35 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+INFO - 2019-08-29 18:20:35 --> Security Class Initialized
+DEBUG - 2019-08-29 18:20:35 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:20:35 --> Final output sent to browser
+DEBUG - 2019-08-29 18:20:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-08-29 18:20:35 --> Total execution time: 1.8093
+INFO - 2019-08-29 18:20:36 --> Input Class Initialized
+INFO - 2019-08-29 18:20:36 --> Language Class Initialized
+INFO - 2019-08-29 18:20:36 --> Language Class Initialized
+INFO - 2019-08-29 18:20:36 --> Config Class Initialized
+INFO - 2019-08-29 18:20:36 --> Loader Class Initialized
+INFO - 2019-08-29 18:20:36 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:20:36 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:20:36 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:20:36 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:20:36 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:20:36 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:20:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:20:36 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:20:36 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:20:36 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/dashboard/dashboard.php
+ERROR - 2019-08-29 18:20:36 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:20:36 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:20:36 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:20:36 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:20:37 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:20:37 --> Final output sent to browser
+INFO - 2019-08-29 18:20:37 --> Config Class Initialized
+DEBUG - 2019-08-29 18:20:37 --> Total execution time: 1.8361
+INFO - 2019-08-29 18:20:37 --> Config Class Initialized
+INFO - 2019-08-29 18:20:37 --> Hooks Class Initialized
+INFO - 2019-08-29 18:20:37 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:20:37 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:20:37 --> Config Class Initialized
+INFO - 2019-08-29 18:20:37 --> Utf8 Class Initialized
+DEBUG - 2019-08-29 18:20:37 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:20:37 --> Hooks Class Initialized
+INFO - 2019-08-29 18:20:37 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:20:37 --> URI Class Initialized
+DEBUG - 2019-08-29 18:20:37 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:20:37 --> URI Class Initialized
+INFO - 2019-08-29 18:20:37 --> Router Class Initialized
+INFO - 2019-08-29 18:20:37 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:20:37 --> Router Class Initialized
+INFO - 2019-08-29 18:20:37 --> Output Class Initialized
+INFO - 2019-08-29 18:20:37 --> URI Class Initialized
+INFO - 2019-08-29 18:20:37 --> Output Class Initialized
+INFO - 2019-08-29 18:20:37 --> Security Class Initialized
+INFO - 2019-08-29 18:20:37 --> Router Class Initialized
+INFO - 2019-08-29 18:20:37 --> Security Class Initialized
+DEBUG - 2019-08-29 18:20:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:20:37 --> Output Class Initialized
+DEBUG - 2019-08-29 18:20:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:20:38 --> Input Class Initialized
+INFO - 2019-08-29 18:20:38 --> Security Class Initialized
+INFO - 2019-08-29 18:20:38 --> Input Class Initialized
+INFO - 2019-08-29 18:20:38 --> Language Class Initialized
+INFO - 2019-08-29 18:20:38 --> Language Class Initialized
+DEBUG - 2019-08-29 18:20:38 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-08-29 18:20:38 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:20:38 --> Input Class Initialized
+ERROR - 2019-08-29 18:20:38 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:20:38 --> Language Class Initialized
+ERROR - 2019-08-29 18:20:38 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:20:39 --> Config Class Initialized
+INFO - 2019-08-29 18:20:39 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:20:39 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:20:39 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:20:39 --> URI Class Initialized
+INFO - 2019-08-29 18:20:40 --> Router Class Initialized
+INFO - 2019-08-29 18:20:40 --> Output Class Initialized
+INFO - 2019-08-29 18:20:40 --> Security Class Initialized
+DEBUG - 2019-08-29 18:20:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:20:40 --> Input Class Initialized
+INFO - 2019-08-29 18:20:40 --> Language Class Initialized
+ERROR - 2019-08-29 18:20:40 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:20:40 --> Config Class Initialized
+INFO - 2019-08-29 18:20:40 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:20:40 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:20:40 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:20:40 --> URI Class Initialized
+INFO - 2019-08-29 18:20:40 --> Router Class Initialized
+INFO - 2019-08-29 18:20:40 --> Output Class Initialized
+INFO - 2019-08-29 18:20:40 --> Security Class Initialized
+DEBUG - 2019-08-29 18:20:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:20:41 --> Input Class Initialized
+INFO - 2019-08-29 18:20:41 --> Language Class Initialized
+INFO - 2019-08-29 18:20:41 --> Language Class Initialized
+INFO - 2019-08-29 18:20:41 --> Config Class Initialized
+INFO - 2019-08-29 18:20:41 --> Loader Class Initialized
+INFO - 2019-08-29 18:20:41 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:20:41 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:20:41 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:20:41 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:20:41 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:20:41 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:20:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:20:41 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:20:41 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:20:41 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/dashboard/dashboard.php
+ERROR - 2019-08-29 18:20:41 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:20:41 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:20:42 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:20:42 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:20:42 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:20:42 --> Final output sent to browser
+DEBUG - 2019-08-29 18:20:42 --> Total execution time: 1.6433
+INFO - 2019-08-29 18:20:42 --> Config Class Initialized
+INFO - 2019-08-29 18:20:42 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:20:42 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:20:42 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:20:42 --> URI Class Initialized
+INFO - 2019-08-29 18:20:42 --> Router Class Initialized
+INFO - 2019-08-29 18:20:42 --> Output Class Initialized
+INFO - 2019-08-29 18:20:42 --> Security Class Initialized
+DEBUG - 2019-08-29 18:20:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:20:42 --> Input Class Initialized
+INFO - 2019-08-29 18:20:43 --> Language Class Initialized
+INFO - 2019-08-29 18:20:43 --> Language Class Initialized
+INFO - 2019-08-29 18:20:43 --> Config Class Initialized
+INFO - 2019-08-29 18:20:43 --> Loader Class Initialized
+INFO - 2019-08-29 18:20:43 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:20:43 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:20:43 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:20:43 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:20:43 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:20:43 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:20:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:20:43 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:20:43 --> Controller Class Initialized
+INFO - 2019-08-29 18:22:33 --> Config Class Initialized
+INFO - 2019-08-29 18:22:33 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:22:33 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:22:33 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:22:33 --> URI Class Initialized
+INFO - 2019-08-29 18:22:33 --> Router Class Initialized
+INFO - 2019-08-29 18:22:33 --> Output Class Initialized
+INFO - 2019-08-29 18:22:33 --> Security Class Initialized
+DEBUG - 2019-08-29 18:22:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:22:33 --> Input Class Initialized
+INFO - 2019-08-29 18:22:33 --> Language Class Initialized
+INFO - 2019-08-29 18:22:33 --> Language Class Initialized
+INFO - 2019-08-29 18:22:33 --> Config Class Initialized
+INFO - 2019-08-29 18:22:33 --> Loader Class Initialized
+INFO - 2019-08-29 18:22:33 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:22:33 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:22:33 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:22:33 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:22:33 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:22:34 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:22:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:22:34 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:22:34 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:22:34 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/data.php
+ERROR - 2019-08-29 18:22:34 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:22:34 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:22:34 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:22:34 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:22:34 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:22:34 --> Final output sent to browser
+DEBUG - 2019-08-29 18:22:34 --> Total execution time: 1.6178
+INFO - 2019-08-29 18:22:34 --> Config Class Initialized
+INFO - 2019-08-29 18:22:34 --> Hooks Class Initialized
+INFO - 2019-08-29 18:22:35 --> Config Class Initialized
+DEBUG - 2019-08-29 18:22:35 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:22:35 --> Hooks Class Initialized
+INFO - 2019-08-29 18:22:35 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:22:35 --> Config Class Initialized
+DEBUG - 2019-08-29 18:22:35 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:22:35 --> URI Class Initialized
+INFO - 2019-08-29 18:22:35 --> Hooks Class Initialized
+INFO - 2019-08-29 18:22:35 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:22:35 --> Router Class Initialized
+DEBUG - 2019-08-29 18:22:35 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:22:35 --> URI Class Initialized
+INFO - 2019-08-29 18:22:35 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:22:35 --> Output Class Initialized
+INFO - 2019-08-29 18:22:35 --> URI Class Initialized
+INFO - 2019-08-29 18:22:35 --> Router Class Initialized
+INFO - 2019-08-29 18:22:35 --> Security Class Initialized
+INFO - 2019-08-29 18:22:35 --> Output Class Initialized
+INFO - 2019-08-29 18:22:35 --> Router Class Initialized
+DEBUG - 2019-08-29 18:22:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:22:35 --> Security Class Initialized
+INFO - 2019-08-29 18:22:35 --> Input Class Initialized
+INFO - 2019-08-29 18:22:35 --> Output Class Initialized
+INFO - 2019-08-29 18:22:35 --> Language Class Initialized
+INFO - 2019-08-29 18:22:35 --> Security Class Initialized
+DEBUG - 2019-08-29 18:22:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:22:35 --> Input Class Initialized
+ERROR - 2019-08-29 18:22:35 --> 404 Page Not Found: /index
+DEBUG - 2019-08-29 18:22:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:22:36 --> Language Class Initialized
+INFO - 2019-08-29 18:22:36 --> Input Class Initialized
+INFO - 2019-08-29 18:22:36 --> Language Class Initialized
+ERROR - 2019-08-29 18:22:36 --> 404 Page Not Found: /index
+ERROR - 2019-08-29 18:22:36 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:22:37 --> Config Class Initialized
+INFO - 2019-08-29 18:22:37 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:22:37 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:22:37 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:22:37 --> URI Class Initialized
+INFO - 2019-08-29 18:22:37 --> Router Class Initialized
+INFO - 2019-08-29 18:22:37 --> Output Class Initialized
+INFO - 2019-08-29 18:22:38 --> Security Class Initialized
+DEBUG - 2019-08-29 18:22:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:22:38 --> Input Class Initialized
+INFO - 2019-08-29 18:22:38 --> Language Class Initialized
+ERROR - 2019-08-29 18:22:38 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:22:38 --> Config Class Initialized
+INFO - 2019-08-29 18:22:38 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:22:38 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:22:38 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:22:38 --> URI Class Initialized
+INFO - 2019-08-29 18:22:38 --> Router Class Initialized
+INFO - 2019-08-29 18:22:38 --> Output Class Initialized
+INFO - 2019-08-29 18:22:38 --> Security Class Initialized
+DEBUG - 2019-08-29 18:22:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:22:39 --> Input Class Initialized
+INFO - 2019-08-29 18:22:39 --> Language Class Initialized
+INFO - 2019-08-29 18:22:39 --> Language Class Initialized
+INFO - 2019-08-29 18:22:39 --> Config Class Initialized
+INFO - 2019-08-29 18:22:39 --> Loader Class Initialized
+INFO - 2019-08-29 18:22:39 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:22:39 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:22:39 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:22:39 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:22:39 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:22:39 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:22:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:22:39 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:22:39 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:22:39 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/data.php
+ERROR - 2019-08-29 18:22:40 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:22:40 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:22:40 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:22:40 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:22:40 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:22:40 --> Final output sent to browser
+DEBUG - 2019-08-29 18:22:40 --> Total execution time: 1.7400
+INFO - 2019-08-29 18:22:43 --> Config Class Initialized
+INFO - 2019-08-29 18:22:43 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:22:43 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:22:43 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:22:43 --> URI Class Initialized
+INFO - 2019-08-29 18:22:43 --> Router Class Initialized
+INFO - 2019-08-29 18:22:43 --> Output Class Initialized
+INFO - 2019-08-29 18:22:44 --> Security Class Initialized
+DEBUG - 2019-08-29 18:22:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:22:44 --> Input Class Initialized
+INFO - 2019-08-29 18:22:44 --> Language Class Initialized
+INFO - 2019-08-29 18:22:44 --> Language Class Initialized
+INFO - 2019-08-29 18:22:44 --> Config Class Initialized
+INFO - 2019-08-29 18:22:44 --> Loader Class Initialized
+INFO - 2019-08-29 18:22:44 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:22:44 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:22:44 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:22:44 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:22:44 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:22:44 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:22:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:22:44 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:22:44 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:22:44 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/data.php
+ERROR - 2019-08-29 18:22:44 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:22:45 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:22:45 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:22:45 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:22:45 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:22:45 --> Final output sent to browser
+DEBUG - 2019-08-29 18:22:45 --> Total execution time: 1.6488
+INFO - 2019-08-29 18:23:24 --> Config Class Initialized
+INFO - 2019-08-29 18:23:24 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:23:24 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:23:24 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:23:24 --> URI Class Initialized
+INFO - 2019-08-29 18:23:24 --> Router Class Initialized
+INFO - 2019-08-29 18:23:24 --> Output Class Initialized
+INFO - 2019-08-29 18:23:24 --> Security Class Initialized
+DEBUG - 2019-08-29 18:23:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:23:25 --> Input Class Initialized
+INFO - 2019-08-29 18:23:25 --> Language Class Initialized
+INFO - 2019-08-29 18:23:25 --> Config Class Initialized
+INFO - 2019-08-29 18:23:25 --> Language Class Initialized
+INFO - 2019-08-29 18:23:25 --> Hooks Class Initialized
+INFO - 2019-08-29 18:23:25 --> Config Class Initialized
+DEBUG - 2019-08-29 18:23:25 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:23:25 --> Loader Class Initialized
+INFO - 2019-08-29 18:23:25 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:23:25 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:23:25 --> URI Class Initialized
+INFO - 2019-08-29 18:23:25 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:23:25 --> Router Class Initialized
+INFO - 2019-08-29 18:23:25 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:23:25 --> Output Class Initialized
+INFO - 2019-08-29 18:23:25 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:23:25 --> Security Class Initialized
+INFO - 2019-08-29 18:23:25 --> Helper loaded: form_generator_helper
+DEBUG - 2019-08-29 18:23:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:23:25 --> Database Driver Class Initialized
+INFO - 2019-08-29 18:23:25 --> Input Class Initialized
+INFO - 2019-08-29 18:23:25 --> Language Class Initialized
+DEBUG - 2019-08-29 18:23:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:23:26 --> Language Class Initialized
+INFO - 2019-08-29 18:23:26 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:23:26 --> Config Class Initialized
+INFO - 2019-08-29 18:23:26 --> Loader Class Initialized
+INFO - 2019-08-29 18:23:26 --> Controller Class Initialized
+INFO - 2019-08-29 18:23:26 --> Helper loaded: url_helper
+ERROR - 2019-08-29 18:23:26 --> Severity: Notice --> Undefined property: stdClass::$content C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\saran\data.php 48
+INFO - 2019-08-29 18:23:26 --> Helper loaded: file_helper
+ERROR - 2019-08-29 18:23:26 --> Severity: Notice --> Undefined property: stdClass::$content C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\saran\data.php 48
+INFO - 2019-08-29 18:23:26 --> Helper loaded: form_helper
+DEBUG - 2019-08-29 18:23:26 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/data.php
+INFO - 2019-08-29 18:23:26 --> Helper loaded: pitulungan_helper
+ERROR - 2019-08-29 18:23:26 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+INFO - 2019-08-29 18:23:26 --> Helper loaded: form_generator_helper
+ERROR - 2019-08-29 18:23:26 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+INFO - 2019-08-29 18:23:26 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:23:26 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:23:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2019-08-29 18:23:26 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:23:26 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:23:26 --> Final output sent to browser
+DEBUG - 2019-08-29 18:23:27 --> Total execution time: 2.3914
+INFO - 2019-08-29 18:23:27 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:23:27 --> Controller Class Initialized
+ERROR - 2019-08-29 18:23:27 --> Severity: Notice --> Undefined property: stdClass::$content C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\saran\data.php 48
+ERROR - 2019-08-29 18:23:27 --> Severity: Notice --> Undefined property: stdClass::$content C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\saran\data.php 48
+DEBUG - 2019-08-29 18:23:27 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/data.php
+ERROR - 2019-08-29 18:23:27 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:23:27 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:23:27 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:23:27 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:23:27 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:23:27 --> Final output sent to browser
+INFO - 2019-08-29 18:23:27 --> Config Class Initialized
+DEBUG - 2019-08-29 18:23:27 --> Total execution time: 2.4291
+INFO - 2019-08-29 18:23:27 --> Config Class Initialized
+INFO - 2019-08-29 18:23:27 --> Hooks Class Initialized
+INFO - 2019-08-29 18:23:27 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:23:27 --> UTF-8 Support Enabled
+DEBUG - 2019-08-29 18:23:28 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:23:28 --> Config Class Initialized
+INFO - 2019-08-29 18:23:28 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:23:28 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:23:28 --> Hooks Class Initialized
+INFO - 2019-08-29 18:23:28 --> URI Class Initialized
+DEBUG - 2019-08-29 18:23:28 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:23:28 --> URI Class Initialized
+INFO - 2019-08-29 18:23:28 --> Router Class Initialized
+INFO - 2019-08-29 18:23:28 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:23:28 --> Router Class Initialized
+INFO - 2019-08-29 18:23:28 --> Output Class Initialized
+INFO - 2019-08-29 18:23:28 --> URI Class Initialized
+INFO - 2019-08-29 18:23:28 --> Output Class Initialized
+INFO - 2019-08-29 18:23:28 --> Security Class Initialized
+INFO - 2019-08-29 18:23:28 --> Router Class Initialized
+INFO - 2019-08-29 18:23:28 --> Security Class Initialized
+DEBUG - 2019-08-29 18:23:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:23:28 --> Output Class Initialized
+DEBUG - 2019-08-29 18:23:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:23:28 --> Input Class Initialized
+INFO - 2019-08-29 18:23:28 --> Security Class Initialized
+INFO - 2019-08-29 18:23:28 --> Input Class Initialized
+INFO - 2019-08-29 18:23:28 --> Language Class Initialized
+DEBUG - 2019-08-29 18:23:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:23:28 --> Language Class Initialized
+ERROR - 2019-08-29 18:23:28 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:23:28 --> Input Class Initialized
+ERROR - 2019-08-29 18:23:28 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:23:28 --> Language Class Initialized
+ERROR - 2019-08-29 18:23:28 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:23:30 --> Config Class Initialized
+INFO - 2019-08-29 18:23:30 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:23:30 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:23:30 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:23:30 --> URI Class Initialized
+INFO - 2019-08-29 18:23:30 --> Router Class Initialized
+INFO - 2019-08-29 18:23:30 --> Output Class Initialized
+INFO - 2019-08-29 18:23:30 --> Security Class Initialized
+DEBUG - 2019-08-29 18:23:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:23:30 --> Input Class Initialized
+INFO - 2019-08-29 18:23:30 --> Language Class Initialized
+ERROR - 2019-08-29 18:23:30 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:23:31 --> Config Class Initialized
+INFO - 2019-08-29 18:23:31 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:23:31 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:23:31 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:23:31 --> URI Class Initialized
+INFO - 2019-08-29 18:23:31 --> Router Class Initialized
+INFO - 2019-08-29 18:23:31 --> Output Class Initialized
+INFO - 2019-08-29 18:23:31 --> Security Class Initialized
+DEBUG - 2019-08-29 18:23:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:23:31 --> Input Class Initialized
+INFO - 2019-08-29 18:23:31 --> Language Class Initialized
+INFO - 2019-08-29 18:23:31 --> Language Class Initialized
+INFO - 2019-08-29 18:23:32 --> Config Class Initialized
+INFO - 2019-08-29 18:23:32 --> Loader Class Initialized
+INFO - 2019-08-29 18:23:32 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:23:32 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:23:32 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:23:32 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:23:32 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:23:32 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:23:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:23:32 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:23:32 --> Controller Class Initialized
+ERROR - 2019-08-29 18:23:32 --> Severity: Notice --> Undefined property: stdClass::$content C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\saran\data.php 48
+ERROR - 2019-08-29 18:23:32 --> Severity: Notice --> Undefined property: stdClass::$content C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\saran\data.php 48
+DEBUG - 2019-08-29 18:23:32 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/data.php
+ERROR - 2019-08-29 18:23:33 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:23:33 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:23:33 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:23:33 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:23:33 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:23:33 --> Final output sent to browser
+DEBUG - 2019-08-29 18:23:33 --> Total execution time: 2.2454
+INFO - 2019-08-29 18:23:47 --> Config Class Initialized
+INFO - 2019-08-29 18:23:47 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:23:48 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:23:48 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:23:48 --> URI Class Initialized
+INFO - 2019-08-29 18:23:48 --> Router Class Initialized
+INFO - 2019-08-29 18:23:48 --> Output Class Initialized
+INFO - 2019-08-29 18:23:48 --> Security Class Initialized
+DEBUG - 2019-08-29 18:23:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:23:48 --> Input Class Initialized
+INFO - 2019-08-29 18:23:48 --> Language Class Initialized
+INFO - 2019-08-29 18:23:48 --> Language Class Initialized
+INFO - 2019-08-29 18:23:48 --> Config Class Initialized
+INFO - 2019-08-29 18:23:48 --> Loader Class Initialized
+INFO - 2019-08-29 18:23:48 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:23:48 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:23:48 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:23:48 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:23:48 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:23:48 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:23:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:23:49 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:23:49 --> Controller Class Initialized
+ERROR - 2019-08-29 18:23:49 --> Severity: Notice --> Undefined property: stdClass::$content C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\saran\data.php 48
+ERROR - 2019-08-29 18:23:49 --> Severity: Notice --> Undefined property: stdClass::$content C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\saran\data.php 48
+DEBUG - 2019-08-29 18:23:49 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/data.php
+ERROR - 2019-08-29 18:23:49 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:23:49 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:23:49 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:23:49 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:23:49 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:23:49 --> Final output sent to browser
+DEBUG - 2019-08-29 18:23:49 --> Total execution time: 1.6625
+INFO - 2019-08-29 18:24:08 --> Config Class Initialized
+INFO - 2019-08-29 18:24:08 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:24:08 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:24:08 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:24:08 --> URI Class Initialized
+INFO - 2019-08-29 18:24:08 --> Router Class Initialized
+INFO - 2019-08-29 18:24:08 --> Output Class Initialized
+INFO - 2019-08-29 18:24:08 --> Security Class Initialized
+DEBUG - 2019-08-29 18:24:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:24:08 --> Input Class Initialized
+INFO - 2019-08-29 18:24:08 --> Language Class Initialized
+INFO - 2019-08-29 18:24:08 --> Language Class Initialized
+INFO - 2019-08-29 18:24:08 --> Config Class Initialized
+INFO - 2019-08-29 18:24:08 --> Loader Class Initialized
+INFO - 2019-08-29 18:24:08 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:24:08 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:24:08 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:24:08 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:24:08 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:24:09 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:24:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:24:09 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:24:09 --> Controller Class Initialized
+ERROR - 2019-08-29 18:24:09 --> Severity: Notice --> Undefined property: stdClass::$content C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\saran\data.php 48
+ERROR - 2019-08-29 18:24:09 --> Severity: Notice --> Undefined property: stdClass::$content C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\saran\data.php 48
+DEBUG - 2019-08-29 18:24:09 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/data.php
+ERROR - 2019-08-29 18:24:09 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:24:09 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:24:09 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:24:09 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:24:09 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:24:09 --> Final output sent to browser
+DEBUG - 2019-08-29 18:24:09 --> Total execution time: 1.6821
+INFO - 2019-08-29 18:24:23 --> Config Class Initialized
+INFO - 2019-08-29 18:24:23 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:24:23 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:24:23 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:24:23 --> URI Class Initialized
+INFO - 2019-08-29 18:24:23 --> Router Class Initialized
+INFO - 2019-08-29 18:24:23 --> Output Class Initialized
+INFO - 2019-08-29 18:24:23 --> Security Class Initialized
+DEBUG - 2019-08-29 18:24:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:24:23 --> Input Class Initialized
+INFO - 2019-08-29 18:24:23 --> Language Class Initialized
+INFO - 2019-08-29 18:24:23 --> Language Class Initialized
+INFO - 2019-08-29 18:24:23 --> Config Class Initialized
+INFO - 2019-08-29 18:24:23 --> Loader Class Initialized
+INFO - 2019-08-29 18:24:23 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:24:23 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:24:24 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:24:24 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:24:24 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:24:24 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:24:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:24:24 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:24:24 --> Controller Class Initialized
+ERROR - 2019-08-29 18:24:24 --> Severity: Notice --> Undefined property: stdClass::$content C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\saran\data.php 48
+ERROR - 2019-08-29 18:24:24 --> Severity: Notice --> Undefined property: stdClass::$content C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\saran\data.php 48
+DEBUG - 2019-08-29 18:24:24 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/data.php
+ERROR - 2019-08-29 18:24:24 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:24:24 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:24:24 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:24:24 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:24:24 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:24:24 --> Final output sent to browser
+DEBUG - 2019-08-29 18:24:25 --> Total execution time: 1.7765
+INFO - 2019-08-29 18:24:44 --> Config Class Initialized
+INFO - 2019-08-29 18:24:44 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:24:44 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:24:44 --> Config Class Initialized
+INFO - 2019-08-29 18:24:44 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:24:44 --> Hooks Class Initialized
+INFO - 2019-08-29 18:24:44 --> URI Class Initialized
+DEBUG - 2019-08-29 18:24:44 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:24:44 --> Router Class Initialized
+INFO - 2019-08-29 18:24:44 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:24:44 --> URI Class Initialized
+INFO - 2019-08-29 18:24:44 --> Output Class Initialized
+INFO - 2019-08-29 18:24:44 --> Router Class Initialized
+INFO - 2019-08-29 18:24:44 --> Security Class Initialized
+INFO - 2019-08-29 18:24:44 --> Output Class Initialized
+DEBUG - 2019-08-29 18:24:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:24:45 --> Security Class Initialized
+INFO - 2019-08-29 18:24:45 --> Input Class Initialized
+INFO - 2019-08-29 18:24:45 --> Language Class Initialized
+DEBUG - 2019-08-29 18:24:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:24:45 --> Language Class Initialized
+INFO - 2019-08-29 18:24:45 --> Input Class Initialized
+INFO - 2019-08-29 18:24:45 --> Config Class Initialized
+INFO - 2019-08-29 18:24:45 --> Language Class Initialized
+INFO - 2019-08-29 18:24:45 --> Loader Class Initialized
+INFO - 2019-08-29 18:24:45 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:24:45 --> Language Class Initialized
+INFO - 2019-08-29 18:24:45 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:24:45 --> Config Class Initialized
+INFO - 2019-08-29 18:24:45 --> Loader Class Initialized
+INFO - 2019-08-29 18:24:45 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:24:45 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:24:45 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:24:45 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:24:45 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:24:45 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:24:45 --> Database Driver Class Initialized
+INFO - 2019-08-29 18:24:45 --> Helper loaded: pitulungan_helper
+DEBUG - 2019-08-29 18:24:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:24:46 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:24:46 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:24:46 --> Database Driver Class Initialized
+INFO - 2019-08-29 18:24:46 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:24:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2019-08-29 18:24:46 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/data.php
+ERROR - 2019-08-29 18:24:46 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:24:46 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:24:46 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:24:46 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:24:46 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:24:46 --> Final output sent to browser
+DEBUG - 2019-08-29 18:24:46 --> Total execution time: 2.2717
+INFO - 2019-08-29 18:24:46 --> Config Class Initialized
+INFO - 2019-08-29 18:24:46 --> Hooks Class Initialized
+INFO - 2019-08-29 18:24:47 --> Config Class Initialized
+DEBUG - 2019-08-29 18:24:47 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:24:47 --> Config Class Initialized
+INFO - 2019-08-29 18:24:47 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:24:47 --> Hooks Class Initialized
+INFO - 2019-08-29 18:24:47 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:24:47 --> Hooks Class Initialized
+INFO - 2019-08-29 18:24:47 --> Controller Class Initialized
+INFO - 2019-08-29 18:24:47 --> URI Class Initialized
+DEBUG - 2019-08-29 18:24:47 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:24:47 --> Utf8 Class Initialized
+DEBUG - 2019-08-29 18:24:47 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:24:47 --> Router Class Initialized
+DEBUG - 2019-08-29 18:24:47 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/data.php
+INFO - 2019-08-29 18:24:47 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:24:47 --> URI Class Initialized
+INFO - 2019-08-29 18:24:47 --> URI Class Initialized
+INFO - 2019-08-29 18:24:47 --> Output Class Initialized
+ERROR - 2019-08-29 18:24:47 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+INFO - 2019-08-29 18:24:47 --> Router Class Initialized
+INFO - 2019-08-29 18:24:47 --> Router Class Initialized
+INFO - 2019-08-29 18:24:47 --> Security Class Initialized
+ERROR - 2019-08-29 18:24:47 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+INFO - 2019-08-29 18:24:47 --> Output Class Initialized
+DEBUG - 2019-08-29 18:24:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-08-29 18:24:47 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+INFO - 2019-08-29 18:24:47 --> Output Class Initialized
+INFO - 2019-08-29 18:24:47 --> Security Class Initialized
+INFO - 2019-08-29 18:24:47 --> Input Class Initialized
+DEBUG - 2019-08-29 18:24:47 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+INFO - 2019-08-29 18:24:47 --> Security Class Initialized
+DEBUG - 2019-08-29 18:24:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-08-29 18:24:47 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+DEBUG - 2019-08-29 18:24:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:24:47 --> Input Class Initialized
+INFO - 2019-08-29 18:24:47 --> Language Class Initialized
+INFO - 2019-08-29 18:24:47 --> Final output sent to browser
+INFO - 2019-08-29 18:24:47 --> Input Class Initialized
+ERROR - 2019-08-29 18:24:47 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:24:47 --> Language Class Initialized
+DEBUG - 2019-08-29 18:24:47 --> Total execution time: 3.4007
+INFO - 2019-08-29 18:24:48 --> Language Class Initialized
+ERROR - 2019-08-29 18:24:48 --> 404 Page Not Found: /index
+ERROR - 2019-08-29 18:24:48 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:24:49 --> Config Class Initialized
+INFO - 2019-08-29 18:24:49 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:24:49 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:24:49 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:24:49 --> URI Class Initialized
+INFO - 2019-08-29 18:24:49 --> Router Class Initialized
+INFO - 2019-08-29 18:24:49 --> Output Class Initialized
+INFO - 2019-08-29 18:24:49 --> Security Class Initialized
+DEBUG - 2019-08-29 18:24:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:24:49 --> Input Class Initialized
+INFO - 2019-08-29 18:24:49 --> Language Class Initialized
+ERROR - 2019-08-29 18:24:50 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:24:50 --> Config Class Initialized
+INFO - 2019-08-29 18:24:50 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:24:50 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:24:50 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:24:50 --> URI Class Initialized
+INFO - 2019-08-29 18:24:50 --> Router Class Initialized
+INFO - 2019-08-29 18:24:50 --> Output Class Initialized
+INFO - 2019-08-29 18:24:50 --> Security Class Initialized
+DEBUG - 2019-08-29 18:24:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:24:50 --> Input Class Initialized
+INFO - 2019-08-29 18:24:51 --> Language Class Initialized
+INFO - 2019-08-29 18:24:51 --> Language Class Initialized
+INFO - 2019-08-29 18:24:51 --> Config Class Initialized
+INFO - 2019-08-29 18:24:51 --> Loader Class Initialized
+INFO - 2019-08-29 18:24:51 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:24:51 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:24:51 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:24:51 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:24:51 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:24:51 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:24:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:24:51 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:24:51 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:24:51 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/data.php
+ERROR - 2019-08-29 18:24:51 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:24:51 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:24:52 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:24:52 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:24:52 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:24:52 --> Final output sent to browser
+DEBUG - 2019-08-29 18:24:52 --> Total execution time: 1.9311
+INFO - 2019-08-29 18:25:12 --> Config Class Initialized
+INFO - 2019-08-29 18:25:12 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:25:12 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:25:12 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:25:12 --> URI Class Initialized
+INFO - 2019-08-29 18:25:12 --> Router Class Initialized
+INFO - 2019-08-29 18:25:12 --> Output Class Initialized
+INFO - 2019-08-29 18:25:12 --> Security Class Initialized
+DEBUG - 2019-08-29 18:25:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:25:12 --> Input Class Initialized
+INFO - 2019-08-29 18:25:12 --> Language Class Initialized
+INFO - 2019-08-29 18:25:12 --> Language Class Initialized
+INFO - 2019-08-29 18:25:12 --> Config Class Initialized
+INFO - 2019-08-29 18:25:13 --> Loader Class Initialized
+INFO - 2019-08-29 18:25:13 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:25:13 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:25:13 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:25:13 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:25:13 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:25:13 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:25:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:25:13 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:25:13 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:25:13 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/data.php
+ERROR - 2019-08-29 18:25:13 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:25:13 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:25:13 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:25:13 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:25:13 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:25:14 --> Final output sent to browser
+DEBUG - 2019-08-29 18:25:14 --> Total execution time: 1.7326
+INFO - 2019-08-29 18:26:09 --> Config Class Initialized
+INFO - 2019-08-29 18:26:09 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:26:10 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:26:10 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:26:10 --> Config Class Initialized
+INFO - 2019-08-29 18:26:10 --> URI Class Initialized
+INFO - 2019-08-29 18:26:10 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:26:10 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:26:10 --> Router Class Initialized
+INFO - 2019-08-29 18:26:10 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:26:10 --> URI Class Initialized
+INFO - 2019-08-29 18:26:10 --> Output Class Initialized
+INFO - 2019-08-29 18:26:10 --> Router Class Initialized
+INFO - 2019-08-29 18:26:10 --> Security Class Initialized
+INFO - 2019-08-29 18:26:10 --> Output Class Initialized
+DEBUG - 2019-08-29 18:26:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:26:10 --> Security Class Initialized
+INFO - 2019-08-29 18:26:10 --> Input Class Initialized
+INFO - 2019-08-29 18:26:10 --> Language Class Initialized
+DEBUG - 2019-08-29 18:26:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:26:10 --> Language Class Initialized
+INFO - 2019-08-29 18:26:10 --> Input Class Initialized
+INFO - 2019-08-29 18:26:10 --> Config Class Initialized
+INFO - 2019-08-29 18:26:10 --> Language Class Initialized
+INFO - 2019-08-29 18:26:10 --> Loader Class Initialized
+INFO - 2019-08-29 18:26:10 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:26:10 --> Language Class Initialized
+INFO - 2019-08-29 18:26:11 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:26:11 --> Config Class Initialized
+INFO - 2019-08-29 18:26:11 --> Loader Class Initialized
+INFO - 2019-08-29 18:26:11 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:26:11 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:26:11 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:26:11 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:26:11 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:26:11 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:26:11 --> Database Driver Class Initialized
+INFO - 2019-08-29 18:26:11 --> Helper loaded: pitulungan_helper
+DEBUG - 2019-08-29 18:26:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:26:11 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:26:11 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:26:11 --> Database Driver Class Initialized
+INFO - 2019-08-29 18:26:11 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:26:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2019-08-29 18:26:11 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/data.php
+ERROR - 2019-08-29 18:26:11 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:26:11 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:26:11 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:26:12 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:26:12 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:26:12 --> Final output sent to browser
+INFO - 2019-08-29 18:26:12 --> Config Class Initialized
+DEBUG - 2019-08-29 18:26:12 --> Total execution time: 2.2173
+INFO - 2019-08-29 18:26:12 --> Config Class Initialized
+INFO - 2019-08-29 18:26:12 --> Hooks Class Initialized
+INFO - 2019-08-29 18:26:12 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:26:12 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:26:12 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:26:12 --> Config Class Initialized
+INFO - 2019-08-29 18:26:12 --> Hooks Class Initialized
+INFO - 2019-08-29 18:26:12 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:26:12 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:26:12 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:26:12 --> Utf8 Class Initialized
+DEBUG - 2019-08-29 18:26:12 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/data.php
+INFO - 2019-08-29 18:26:12 --> URI Class Initialized
+DEBUG - 2019-08-29 18:26:12 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:26:12 --> URI Class Initialized
+INFO - 2019-08-29 18:26:12 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:26:12 --> Router Class Initialized
+ERROR - 2019-08-29 18:26:12 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+INFO - 2019-08-29 18:26:12 --> Router Class Initialized
+INFO - 2019-08-29 18:26:12 --> URI Class Initialized
+INFO - 2019-08-29 18:26:12 --> Output Class Initialized
+ERROR - 2019-08-29 18:26:12 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+INFO - 2019-08-29 18:26:12 --> Output Class Initialized
+INFO - 2019-08-29 18:26:12 --> Router Class Initialized
+DEBUG - 2019-08-29 18:26:12 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+INFO - 2019-08-29 18:26:12 --> Security Class Initialized
+INFO - 2019-08-29 18:26:13 --> Security Class Initialized
+INFO - 2019-08-29 18:26:13 --> Output Class Initialized
+DEBUG - 2019-08-29 18:26:13 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:26:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-08-29 18:26:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-08-29 18:26:13 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:26:13 --> Input Class Initialized
+INFO - 2019-08-29 18:26:13 --> Security Class Initialized
+INFO - 2019-08-29 18:26:13 --> Input Class Initialized
+DEBUG - 2019-08-29 18:26:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:26:13 --> Final output sent to browser
+INFO - 2019-08-29 18:26:13 --> Language Class Initialized
+INFO - 2019-08-29 18:26:13 --> Language Class Initialized
+DEBUG - 2019-08-29 18:26:13 --> Total execution time: 3.0648
+INFO - 2019-08-29 18:26:13 --> Input Class Initialized
+ERROR - 2019-08-29 18:26:13 --> 404 Page Not Found: /index
+ERROR - 2019-08-29 18:26:13 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:26:13 --> Language Class Initialized
+ERROR - 2019-08-29 18:26:13 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:26:14 --> Config Class Initialized
+INFO - 2019-08-29 18:26:14 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:26:14 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:26:14 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:26:14 --> URI Class Initialized
+INFO - 2019-08-29 18:26:14 --> Router Class Initialized
+INFO - 2019-08-29 18:26:14 --> Output Class Initialized
+INFO - 2019-08-29 18:26:14 --> Security Class Initialized
+DEBUG - 2019-08-29 18:26:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:26:14 --> Input Class Initialized
+INFO - 2019-08-29 18:26:15 --> Language Class Initialized
+ERROR - 2019-08-29 18:26:15 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:26:15 --> Config Class Initialized
+INFO - 2019-08-29 18:26:15 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:26:15 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:26:15 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:26:15 --> URI Class Initialized
+INFO - 2019-08-29 18:26:15 --> Router Class Initialized
+INFO - 2019-08-29 18:26:15 --> Output Class Initialized
+INFO - 2019-08-29 18:26:15 --> Security Class Initialized
+DEBUG - 2019-08-29 18:26:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:26:15 --> Input Class Initialized
+INFO - 2019-08-29 18:26:15 --> Language Class Initialized
+INFO - 2019-08-29 18:26:16 --> Language Class Initialized
+INFO - 2019-08-29 18:26:16 --> Config Class Initialized
+INFO - 2019-08-29 18:26:16 --> Loader Class Initialized
+INFO - 2019-08-29 18:26:16 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:26:16 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:26:16 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:26:16 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:26:16 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:26:16 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:26:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:26:16 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:26:16 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:26:16 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/data.php
+ERROR - 2019-08-29 18:26:16 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:26:16 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:26:16 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:26:16 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:26:16 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:26:16 --> Final output sent to browser
+DEBUG - 2019-08-29 18:26:17 --> Total execution time: 1.6745
+INFO - 2019-08-29 18:26:20 --> Config Class Initialized
+INFO - 2019-08-29 18:26:20 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:26:20 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:26:20 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:26:21 --> URI Class Initialized
+INFO - 2019-08-29 18:26:21 --> Router Class Initialized
+INFO - 2019-08-29 18:26:21 --> Output Class Initialized
+INFO - 2019-08-29 18:26:21 --> Security Class Initialized
+DEBUG - 2019-08-29 18:26:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:26:21 --> Input Class Initialized
+INFO - 2019-08-29 18:26:21 --> Language Class Initialized
+INFO - 2019-08-29 18:26:21 --> Language Class Initialized
+INFO - 2019-08-29 18:26:21 --> Config Class Initialized
+INFO - 2019-08-29 18:26:21 --> Loader Class Initialized
+INFO - 2019-08-29 18:26:21 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:26:21 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:26:21 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:26:21 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:26:21 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:26:21 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:26:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:26:21 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:26:22 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:26:22 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/data.php
+ERROR - 2019-08-29 18:26:22 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:26:22 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:26:22 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:26:22 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:26:22 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:26:22 --> Final output sent to browser
+DEBUG - 2019-08-29 18:26:22 --> Total execution time: 1.6279
+INFO - 2019-08-29 18:26:30 --> Config Class Initialized
+INFO - 2019-08-29 18:26:30 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:26:30 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:26:30 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:26:30 --> URI Class Initialized
+INFO - 2019-08-29 18:26:30 --> Router Class Initialized
+INFO - 2019-08-29 18:26:30 --> Output Class Initialized
+INFO - 2019-08-29 18:26:30 --> Security Class Initialized
+DEBUG - 2019-08-29 18:26:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:26:30 --> Input Class Initialized
+INFO - 2019-08-29 18:26:30 --> Language Class Initialized
+INFO - 2019-08-29 18:26:30 --> Language Class Initialized
+INFO - 2019-08-29 18:26:31 --> Config Class Initialized
+INFO - 2019-08-29 18:26:31 --> Loader Class Initialized
+INFO - 2019-08-29 18:26:31 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:26:31 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:26:31 --> Config Class Initialized
+INFO - 2019-08-29 18:26:31 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:26:31 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:26:31 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:26:31 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:26:31 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:26:31 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:26:31 --> URI Class Initialized
+INFO - 2019-08-29 18:26:31 --> Database Driver Class Initialized
+INFO - 2019-08-29 18:26:31 --> Router Class Initialized
+DEBUG - 2019-08-29 18:26:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:26:31 --> Output Class Initialized
+INFO - 2019-08-29 18:26:31 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:26:31 --> Security Class Initialized
+INFO - 2019-08-29 18:26:31 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:26:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-08-29 18:26:31 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/data.php
+INFO - 2019-08-29 18:26:31 --> Input Class Initialized
+INFO - 2019-08-29 18:26:32 --> Language Class Initialized
+ERROR - 2019-08-29 18:26:32 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+INFO - 2019-08-29 18:26:32 --> Language Class Initialized
+ERROR - 2019-08-29 18:26:32 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+INFO - 2019-08-29 18:26:32 --> Config Class Initialized
+INFO - 2019-08-29 18:26:32 --> Loader Class Initialized
+DEBUG - 2019-08-29 18:26:32 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+INFO - 2019-08-29 18:26:32 --> Helper loaded: url_helper
+DEBUG - 2019-08-29 18:26:32 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+INFO - 2019-08-29 18:26:32 --> Helper loaded: file_helper
+DEBUG - 2019-08-29 18:26:32 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:26:32 --> Final output sent to browser
+INFO - 2019-08-29 18:26:32 --> Helper loaded: form_helper
+DEBUG - 2019-08-29 18:26:32 --> Total execution time: 2.1752
+INFO - 2019-08-29 18:26:32 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:26:32 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:26:32 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:26:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:26:32 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:26:32 --> Controller Class Initialized
+ERROR - 2019-08-29 18:26:33 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\saran\detail.php 58
+ERROR - 2019-08-29 18:26:33 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\saran\detail.php 64
+DEBUG - 2019-08-29 18:26:33 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+ERROR - 2019-08-29 18:26:33 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:26:33 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:26:33 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:26:33 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:26:33 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:26:33 --> Final output sent to browser
+INFO - 2019-08-29 18:26:33 --> Config Class Initialized
+DEBUG - 2019-08-29 18:26:33 --> Total execution time: 2.2167
+INFO - 2019-08-29 18:26:33 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:26:33 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:26:33 --> Config Class Initialized
+INFO - 2019-08-29 18:26:33 --> Config Class Initialized
+INFO - 2019-08-29 18:26:33 --> Config Class Initialized
+INFO - 2019-08-29 18:26:33 --> Hooks Class Initialized
+INFO - 2019-08-29 18:26:33 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:26:33 --> Hooks Class Initialized
+INFO - 2019-08-29 18:26:34 --> URI Class Initialized
+INFO - 2019-08-29 18:26:34 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:26:34 --> UTF-8 Support Enabled
+DEBUG - 2019-08-29 18:26:34 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:26:34 --> Router Class Initialized
+INFO - 2019-08-29 18:26:34 --> Utf8 Class Initialized
+DEBUG - 2019-08-29 18:26:34 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:26:34 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:26:34 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:26:34 --> URI Class Initialized
+INFO - 2019-08-29 18:26:34 --> Output Class Initialized
+INFO - 2019-08-29 18:26:34 --> URI Class Initialized
+INFO - 2019-08-29 18:26:34 --> Router Class Initialized
+INFO - 2019-08-29 18:26:34 --> Security Class Initialized
+INFO - 2019-08-29 18:26:34 --> Router Class Initialized
+DEBUG - 2019-08-29 18:26:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:26:34 --> Output Class Initialized
+INFO - 2019-08-29 18:26:34 --> Output Class Initialized
+INFO - 2019-08-29 18:26:34 --> Input Class Initialized
+INFO - 2019-08-29 18:26:34 --> Security Class Initialized
+INFO - 2019-08-29 18:26:34 --> Language Class Initialized
+INFO - 2019-08-29 18:26:34 --> Security Class Initialized
+DEBUG - 2019-08-29 18:26:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:26:34 --> Input Class Initialized
+ERROR - 2019-08-29 18:26:34 --> 404 Page Not Found: /index
+DEBUG - 2019-08-29 18:26:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:26:34 --> Input Class Initialized
+INFO - 2019-08-29 18:26:34 --> Language Class Initialized
+INFO - 2019-08-29 18:26:34 --> Language Class Initialized
+ERROR - 2019-08-29 18:26:35 --> 404 Page Not Found: /index
+ERROR - 2019-08-29 18:26:35 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:26:36 --> Config Class Initialized
+INFO - 2019-08-29 18:26:36 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:26:36 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:26:36 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:26:36 --> URI Class Initialized
+INFO - 2019-08-29 18:26:36 --> Router Class Initialized
+INFO - 2019-08-29 18:26:36 --> Output Class Initialized
+INFO - 2019-08-29 18:26:36 --> Security Class Initialized
+DEBUG - 2019-08-29 18:26:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:26:36 --> Input Class Initialized
+INFO - 2019-08-29 18:26:36 --> Language Class Initialized
+ERROR - 2019-08-29 18:26:37 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:26:38 --> Config Class Initialized
+INFO - 2019-08-29 18:26:38 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:26:38 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:26:38 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:26:38 --> URI Class Initialized
+INFO - 2019-08-29 18:26:38 --> Router Class Initialized
+INFO - 2019-08-29 18:26:39 --> Output Class Initialized
+INFO - 2019-08-29 18:26:39 --> Security Class Initialized
+DEBUG - 2019-08-29 18:26:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:26:39 --> Input Class Initialized
+INFO - 2019-08-29 18:26:39 --> Language Class Initialized
+INFO - 2019-08-29 18:26:39 --> Language Class Initialized
+INFO - 2019-08-29 18:26:39 --> Config Class Initialized
+INFO - 2019-08-29 18:26:39 --> Loader Class Initialized
+INFO - 2019-08-29 18:26:39 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:26:39 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:26:39 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:26:40 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:26:40 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:26:40 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:26:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:26:40 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:26:40 --> Controller Class Initialized
+ERROR - 2019-08-29 18:26:40 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\saran\detail.php 58
+ERROR - 2019-08-29 18:26:40 --> Severity: Notice --> Trying to get property of non-object C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\saran\detail.php 64
+DEBUG - 2019-08-29 18:26:40 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+ERROR - 2019-08-29 18:26:40 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:26:40 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:26:40 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:26:40 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:26:40 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:26:40 --> Final output sent to browser
+DEBUG - 2019-08-29 18:26:40 --> Total execution time: 2.5790
+INFO - 2019-08-29 18:26:58 --> Config Class Initialized
+INFO - 2019-08-29 18:26:59 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:26:59 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:26:59 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:26:59 --> URI Class Initialized
+INFO - 2019-08-29 18:26:59 --> Router Class Initialized
+INFO - 2019-08-29 18:26:59 --> Output Class Initialized
+INFO - 2019-08-29 18:26:59 --> Security Class Initialized
+DEBUG - 2019-08-29 18:26:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:26:59 --> Input Class Initialized
+INFO - 2019-08-29 18:26:59 --> Language Class Initialized
+INFO - 2019-08-29 18:26:59 --> Language Class Initialized
+INFO - 2019-08-29 18:26:59 --> Config Class Initialized
+INFO - 2019-08-29 18:26:59 --> Loader Class Initialized
+INFO - 2019-08-29 18:26:59 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:26:59 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:26:59 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:26:59 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:26:59 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:26:59 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:27:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:27:00 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:27:00 --> Controller Class Initialized
+ERROR - 2019-08-29 18:27:00 --> Severity: Notice --> Undefined property: stdClass::$img C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\saran\detail.php 58
+ERROR - 2019-08-29 18:27:00 --> Severity: Notice --> Undefined property: stdClass::$content C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\saran\detail.php 64
+DEBUG - 2019-08-29 18:27:00 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+ERROR - 2019-08-29 18:27:00 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:27:00 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:27:00 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:27:00 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:27:00 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:27:00 --> Final output sent to browser
+DEBUG - 2019-08-29 18:27:00 --> Total execution time: 1.6319
+INFO - 2019-08-29 18:27:01 --> Config Class Initialized
+INFO - 2019-08-29 18:27:01 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:27:01 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:27:01 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:27:01 --> URI Class Initialized
+INFO - 2019-08-29 18:27:01 --> Router Class Initialized
+INFO - 2019-08-29 18:27:01 --> Output Class Initialized
+INFO - 2019-08-29 18:27:01 --> Security Class Initialized
+DEBUG - 2019-08-29 18:27:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:27:01 --> Input Class Initialized
+INFO - 2019-08-29 18:27:01 --> Language Class Initialized
+INFO - 2019-08-29 18:27:01 --> Language Class Initialized
+INFO - 2019-08-29 18:27:01 --> Config Class Initialized
+INFO - 2019-08-29 18:27:02 --> Loader Class Initialized
+INFO - 2019-08-29 18:27:02 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:27:02 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:27:02 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:27:02 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:27:02 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:27:02 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:27:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:27:02 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:27:02 --> Controller Class Initialized
+ERROR - 2019-08-29 18:27:02 --> Severity: Notice --> Undefined property: stdClass::$img C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\saran\detail.php 58
+ERROR - 2019-08-29 18:27:02 --> Severity: Notice --> Undefined property: stdClass::$content C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\saran\detail.php 64
+DEBUG - 2019-08-29 18:27:02 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+ERROR - 2019-08-29 18:27:02 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:27:02 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:27:02 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:27:02 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:27:02 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:27:02 --> Final output sent to browser
+INFO - 2019-08-29 18:27:03 --> Config Class Initialized
+INFO - 2019-08-29 18:27:03 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:27:03 --> Total execution time: 1.6755
+DEBUG - 2019-08-29 18:27:03 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:27:03 --> Config Class Initialized
+INFO - 2019-08-29 18:27:03 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:27:03 --> Config Class Initialized
+INFO - 2019-08-29 18:27:03 --> Config Class Initialized
+INFO - 2019-08-29 18:27:03 --> Hooks Class Initialized
+INFO - 2019-08-29 18:27:03 --> URI Class Initialized
+INFO - 2019-08-29 18:27:03 --> Hooks Class Initialized
+INFO - 2019-08-29 18:27:03 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:27:03 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:27:03 --> Router Class Initialized
+DEBUG - 2019-08-29 18:27:03 --> UTF-8 Support Enabled
+DEBUG - 2019-08-29 18:27:03 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:27:03 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:27:03 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:27:03 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:27:03 --> URI Class Initialized
+INFO - 2019-08-29 18:27:03 --> Output Class Initialized
+INFO - 2019-08-29 18:27:03 --> URI Class Initialized
+INFO - 2019-08-29 18:27:03 --> Router Class Initialized
+INFO - 2019-08-29 18:27:03 --> Security Class Initialized
+INFO - 2019-08-29 18:27:03 --> Router Class Initialized
+INFO - 2019-08-29 18:27:03 --> Output Class Initialized
+DEBUG - 2019-08-29 18:27:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:27:03 --> Output Class Initialized
+INFO - 2019-08-29 18:27:03 --> Input Class Initialized
+INFO - 2019-08-29 18:27:03 --> Security Class Initialized
+INFO - 2019-08-29 18:27:04 --> Language Class Initialized
+INFO - 2019-08-29 18:27:04 --> Security Class Initialized
+DEBUG - 2019-08-29 18:27:04 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-08-29 18:27:04 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:27:04 --> Input Class Initialized
+DEBUG - 2019-08-29 18:27:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:27:04 --> Input Class Initialized
+INFO - 2019-08-29 18:27:04 --> Language Class Initialized
+INFO - 2019-08-29 18:27:04 --> Language Class Initialized
+ERROR - 2019-08-29 18:27:04 --> 404 Page Not Found: /index
+ERROR - 2019-08-29 18:27:04 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:27:05 --> Config Class Initialized
+INFO - 2019-08-29 18:27:05 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:27:05 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:27:05 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:27:05 --> URI Class Initialized
+INFO - 2019-08-29 18:27:05 --> Router Class Initialized
+INFO - 2019-08-29 18:27:05 --> Output Class Initialized
+INFO - 2019-08-29 18:27:05 --> Security Class Initialized
+DEBUG - 2019-08-29 18:27:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:27:06 --> Input Class Initialized
+INFO - 2019-08-29 18:27:06 --> Language Class Initialized
+ERROR - 2019-08-29 18:27:06 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:27:06 --> Config Class Initialized
+INFO - 2019-08-29 18:27:06 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:27:06 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:27:06 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:27:06 --> URI Class Initialized
+INFO - 2019-08-29 18:27:06 --> Router Class Initialized
+INFO - 2019-08-29 18:27:06 --> Output Class Initialized
+INFO - 2019-08-29 18:27:07 --> Security Class Initialized
+DEBUG - 2019-08-29 18:27:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:27:07 --> Input Class Initialized
+INFO - 2019-08-29 18:27:07 --> Language Class Initialized
+INFO - 2019-08-29 18:27:07 --> Language Class Initialized
+INFO - 2019-08-29 18:27:07 --> Config Class Initialized
+INFO - 2019-08-29 18:27:07 --> Loader Class Initialized
+INFO - 2019-08-29 18:27:07 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:27:07 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:27:07 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:27:07 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:27:07 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:27:07 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:27:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:27:07 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:27:07 --> Controller Class Initialized
+ERROR - 2019-08-29 18:27:07 --> Severity: Notice --> Undefined property: stdClass::$img C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\saran\detail.php 58
+ERROR - 2019-08-29 18:27:08 --> Severity: Notice --> Undefined property: stdClass::$content C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\saran\detail.php 64
+DEBUG - 2019-08-29 18:27:08 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+ERROR - 2019-08-29 18:27:08 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:27:08 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:27:08 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:27:08 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:27:08 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:27:08 --> Final output sent to browser
+DEBUG - 2019-08-29 18:27:08 --> Total execution time: 1.8100
+INFO - 2019-08-29 18:27:49 --> Config Class Initialized
+INFO - 2019-08-29 18:27:49 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:27:49 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:27:49 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:27:49 --> URI Class Initialized
+INFO - 2019-08-29 18:27:49 --> Router Class Initialized
+INFO - 2019-08-29 18:27:49 --> Output Class Initialized
+INFO - 2019-08-29 18:27:49 --> Security Class Initialized
+DEBUG - 2019-08-29 18:27:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:27:49 --> Input Class Initialized
+INFO - 2019-08-29 18:27:49 --> Language Class Initialized
+INFO - 2019-08-29 18:27:49 --> Language Class Initialized
+INFO - 2019-08-29 18:27:50 --> Config Class Initialized
+INFO - 2019-08-29 18:27:50 --> Loader Class Initialized
+INFO - 2019-08-29 18:27:50 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:27:50 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:27:50 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:27:50 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:27:50 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:27:50 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:27:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:27:50 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:27:50 --> Controller Class Initialized
+ERROR - 2019-08-29 18:27:50 --> Severity: Notice --> Undefined property: stdClass::$img C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\saran\detail.php 58
+ERROR - 2019-08-29 18:27:50 --> Severity: Notice --> Undefined property: stdClass::$content C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\saran\detail.php 64
+DEBUG - 2019-08-29 18:27:50 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+ERROR - 2019-08-29 18:27:50 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:27:50 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:27:50 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:27:50 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:27:51 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:27:51 --> Final output sent to browser
+DEBUG - 2019-08-29 18:27:51 --> Total execution time: 1.7111
+INFO - 2019-08-29 18:27:55 --> Config Class Initialized
+INFO - 2019-08-29 18:27:55 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:27:55 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:27:55 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:27:55 --> URI Class Initialized
+INFO - 2019-08-29 18:27:55 --> Router Class Initialized
+INFO - 2019-08-29 18:27:55 --> Output Class Initialized
+INFO - 2019-08-29 18:27:55 --> Security Class Initialized
+DEBUG - 2019-08-29 18:27:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:27:55 --> Input Class Initialized
+INFO - 2019-08-29 18:27:55 --> Language Class Initialized
+INFO - 2019-08-29 18:27:55 --> Language Class Initialized
+INFO - 2019-08-29 18:27:55 --> Config Class Initialized
+INFO - 2019-08-29 18:27:55 --> Loader Class Initialized
+INFO - 2019-08-29 18:27:55 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:27:55 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:27:55 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:27:56 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:27:56 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:27:56 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:27:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:27:56 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:27:56 --> Controller Class Initialized
+ERROR - 2019-08-29 18:27:56 --> Severity: Notice --> Undefined property: stdClass::$img C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\saran\detail.php 58
+ERROR - 2019-08-29 18:27:56 --> Severity: Notice --> Undefined property: stdClass::$content C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\saran\detail.php 64
+DEBUG - 2019-08-29 18:27:56 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+ERROR - 2019-08-29 18:27:56 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:27:56 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:27:56 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:27:56 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:27:56 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:27:56 --> Final output sent to browser
+DEBUG - 2019-08-29 18:27:56 --> Total execution time: 1.5741
+INFO - 2019-08-29 18:28:01 --> Config Class Initialized
+INFO - 2019-08-29 18:28:01 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:28:02 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:28:02 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:28:02 --> URI Class Initialized
+INFO - 2019-08-29 18:28:02 --> Router Class Initialized
+INFO - 2019-08-29 18:28:02 --> Output Class Initialized
+INFO - 2019-08-29 18:28:02 --> Security Class Initialized
+DEBUG - 2019-08-29 18:28:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:28:02 --> Input Class Initialized
+INFO - 2019-08-29 18:28:02 --> Language Class Initialized
+INFO - 2019-08-29 18:28:02 --> Language Class Initialized
+INFO - 2019-08-29 18:28:02 --> Config Class Initialized
+INFO - 2019-08-29 18:28:02 --> Loader Class Initialized
+INFO - 2019-08-29 18:28:02 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:28:02 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:28:02 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:28:02 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:28:03 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:28:03 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:28:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:28:03 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:28:03 --> Controller Class Initialized
+ERROR - 2019-08-29 18:28:03 --> Severity: Notice --> Undefined property: stdClass::$img C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\saran\detail.php 58
+ERROR - 2019-08-29 18:28:03 --> Severity: Notice --> Undefined property: stdClass::$content C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\saran\detail.php 64
+DEBUG - 2019-08-29 18:28:03 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+ERROR - 2019-08-29 18:28:03 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:28:03 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:28:03 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:28:03 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:28:03 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:28:03 --> Final output sent to browser
+DEBUG - 2019-08-29 18:28:04 --> Total execution time: 2.0769
+INFO - 2019-08-29 18:29:19 --> Config Class Initialized
+INFO - 2019-08-29 18:29:19 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:29:19 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:29:19 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:29:19 --> URI Class Initialized
+INFO - 2019-08-29 18:29:19 --> Router Class Initialized
+INFO - 2019-08-29 18:29:19 --> Output Class Initialized
+INFO - 2019-08-29 18:29:19 --> Security Class Initialized
+DEBUG - 2019-08-29 18:29:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:29:20 --> Input Class Initialized
+INFO - 2019-08-29 18:29:20 --> Language Class Initialized
+INFO - 2019-08-29 18:29:20 --> Language Class Initialized
+INFO - 2019-08-29 18:29:20 --> Config Class Initialized
+INFO - 2019-08-29 18:29:20 --> Loader Class Initialized
+INFO - 2019-08-29 18:29:20 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:29:20 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:29:20 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:29:20 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:29:20 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:29:20 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:29:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:29:20 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:29:20 --> Controller Class Initialized
+ERROR - 2019-08-29 18:29:20 --> Severity: Notice --> Undefined property: stdClass::$img C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\saran\detail.php 58
+DEBUG - 2019-08-29 18:29:20 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+ERROR - 2019-08-29 18:29:20 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:29:20 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:29:21 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:29:21 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:29:21 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:29:21 --> Final output sent to browser
+DEBUG - 2019-08-29 18:29:21 --> Total execution time: 1.5815
+INFO - 2019-08-29 18:29:26 --> Config Class Initialized
+INFO - 2019-08-29 18:29:26 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:29:26 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:29:26 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:29:26 --> URI Class Initialized
+INFO - 2019-08-29 18:29:26 --> Router Class Initialized
+INFO - 2019-08-29 18:29:26 --> Output Class Initialized
+INFO - 2019-08-29 18:29:26 --> Security Class Initialized
+DEBUG - 2019-08-29 18:29:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:29:26 --> Input Class Initialized
+INFO - 2019-08-29 18:29:26 --> Language Class Initialized
+INFO - 2019-08-29 18:29:26 --> Language Class Initialized
+INFO - 2019-08-29 18:29:27 --> Config Class Initialized
+INFO - 2019-08-29 18:29:27 --> Loader Class Initialized
+INFO - 2019-08-29 18:29:27 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:29:27 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:29:27 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:29:27 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:29:27 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:29:27 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:29:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:29:27 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:29:27 --> Controller Class Initialized
+ERROR - 2019-08-29 18:29:27 --> Severity: Notice --> Undefined property: stdClass::$img C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\saran\detail.php 58
+DEBUG - 2019-08-29 18:29:27 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+ERROR - 2019-08-29 18:29:27 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:29:27 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:29:27 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:29:27 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:29:27 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:29:27 --> Final output sent to browser
+DEBUG - 2019-08-29 18:29:28 --> Total execution time: 1.5705
+INFO - 2019-08-29 18:29:28 --> Config Class Initialized
+INFO - 2019-08-29 18:29:28 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:29:28 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:29:28 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:29:28 --> URI Class Initialized
+INFO - 2019-08-29 18:29:28 --> Router Class Initialized
+INFO - 2019-08-29 18:29:28 --> Output Class Initialized
+INFO - 2019-08-29 18:29:28 --> Security Class Initialized
+DEBUG - 2019-08-29 18:29:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:29:28 --> Input Class Initialized
+INFO - 2019-08-29 18:29:28 --> Language Class Initialized
+INFO - 2019-08-29 18:29:28 --> Language Class Initialized
+INFO - 2019-08-29 18:29:28 --> Config Class Initialized
+INFO - 2019-08-29 18:29:28 --> Loader Class Initialized
+INFO - 2019-08-29 18:29:29 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:29:29 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:29:29 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:29:29 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:29:29 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:29:29 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:29:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:29:29 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:29:29 --> Controller Class Initialized
+ERROR - 2019-08-29 18:29:29 --> Severity: Notice --> Undefined property: stdClass::$img C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\saran\detail.php 58
+DEBUG - 2019-08-29 18:29:29 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+ERROR - 2019-08-29 18:29:29 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:29:29 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:29:29 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:29:29 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:29:29 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:29:29 --> Final output sent to browser
+INFO - 2019-08-29 18:29:30 --> Config Class Initialized
+DEBUG - 2019-08-29 18:29:30 --> Total execution time: 1.6382
+INFO - 2019-08-29 18:29:30 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:29:30 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:29:30 --> Config Class Initialized
+INFO - 2019-08-29 18:29:30 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:29:30 --> Config Class Initialized
+INFO - 2019-08-29 18:29:30 --> Config Class Initialized
+INFO - 2019-08-29 18:29:30 --> Hooks Class Initialized
+INFO - 2019-08-29 18:29:30 --> URI Class Initialized
+INFO - 2019-08-29 18:29:30 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:29:30 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:29:30 --> Hooks Class Initialized
+INFO - 2019-08-29 18:29:30 --> Router Class Initialized
+DEBUG - 2019-08-29 18:29:30 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:29:30 --> Utf8 Class Initialized
+DEBUG - 2019-08-29 18:29:30 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:29:30 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:29:30 --> Output Class Initialized
+INFO - 2019-08-29 18:29:30 --> URI Class Initialized
+INFO - 2019-08-29 18:29:30 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:29:30 --> URI Class Initialized
+INFO - 2019-08-29 18:29:30 --> Router Class Initialized
+INFO - 2019-08-29 18:29:30 --> Security Class Initialized
+INFO - 2019-08-29 18:29:30 --> Router Class Initialized
+INFO - 2019-08-29 18:29:30 --> Output Class Initialized
+DEBUG - 2019-08-29 18:29:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:29:30 --> Output Class Initialized
+INFO - 2019-08-29 18:29:30 --> Input Class Initialized
+INFO - 2019-08-29 18:29:31 --> Security Class Initialized
+INFO - 2019-08-29 18:29:31 --> Language Class Initialized
+INFO - 2019-08-29 18:29:31 --> Security Class Initialized
+DEBUG - 2019-08-29 18:29:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-08-29 18:29:31 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-08-29 18:29:31 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:29:31 --> Input Class Initialized
+INFO - 2019-08-29 18:29:31 --> Input Class Initialized
+INFO - 2019-08-29 18:29:31 --> Language Class Initialized
+INFO - 2019-08-29 18:29:31 --> Language Class Initialized
+ERROR - 2019-08-29 18:29:31 --> 404 Page Not Found: /index
+ERROR - 2019-08-29 18:29:31 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:29:32 --> Config Class Initialized
+INFO - 2019-08-29 18:29:32 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:29:32 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:29:32 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:29:32 --> URI Class Initialized
+INFO - 2019-08-29 18:29:32 --> Router Class Initialized
+INFO - 2019-08-29 18:29:32 --> Output Class Initialized
+INFO - 2019-08-29 18:29:32 --> Security Class Initialized
+DEBUG - 2019-08-29 18:29:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:29:33 --> Input Class Initialized
+INFO - 2019-08-29 18:29:33 --> Language Class Initialized
+ERROR - 2019-08-29 18:29:33 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:29:33 --> Config Class Initialized
+INFO - 2019-08-29 18:29:33 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:29:33 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:29:33 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:29:33 --> URI Class Initialized
+INFO - 2019-08-29 18:29:33 --> Router Class Initialized
+INFO - 2019-08-29 18:29:33 --> Output Class Initialized
+INFO - 2019-08-29 18:29:33 --> Security Class Initialized
+DEBUG - 2019-08-29 18:29:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:29:34 --> Input Class Initialized
+INFO - 2019-08-29 18:29:34 --> Language Class Initialized
+INFO - 2019-08-29 18:29:34 --> Language Class Initialized
+INFO - 2019-08-29 18:29:34 --> Config Class Initialized
+INFO - 2019-08-29 18:29:34 --> Loader Class Initialized
+INFO - 2019-08-29 18:29:34 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:29:34 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:29:34 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:29:34 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:29:34 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:29:34 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:29:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:29:34 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:29:34 --> Controller Class Initialized
+ERROR - 2019-08-29 18:29:34 --> Severity: Notice --> Undefined property: stdClass::$img C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\saran\detail.php 58
+DEBUG - 2019-08-29 18:29:34 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+ERROR - 2019-08-29 18:29:35 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:29:35 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:29:35 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:29:35 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:29:35 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:29:35 --> Final output sent to browser
+DEBUG - 2019-08-29 18:29:35 --> Total execution time: 1.8879
+INFO - 2019-08-29 18:29:53 --> Config Class Initialized
+INFO - 2019-08-29 18:29:53 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:29:53 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:29:53 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:29:53 --> URI Class Initialized
+INFO - 2019-08-29 18:29:53 --> Router Class Initialized
+INFO - 2019-08-29 18:29:53 --> Output Class Initialized
+INFO - 2019-08-29 18:29:53 --> Security Class Initialized
+DEBUG - 2019-08-29 18:29:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:29:53 --> Input Class Initialized
+INFO - 2019-08-29 18:29:53 --> Language Class Initialized
+INFO - 2019-08-29 18:29:53 --> Language Class Initialized
+INFO - 2019-08-29 18:29:53 --> Config Class Initialized
+INFO - 2019-08-29 18:29:53 --> Loader Class Initialized
+INFO - 2019-08-29 18:29:54 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:29:54 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:29:54 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:29:54 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:29:54 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:29:54 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:29:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:29:54 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:29:54 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:29:54 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+ERROR - 2019-08-29 18:29:54 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:29:54 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:29:54 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:29:54 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:29:54 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:29:54 --> Final output sent to browser
+DEBUG - 2019-08-29 18:29:54 --> Total execution time: 1.8302
+INFO - 2019-08-29 18:30:02 --> Config Class Initialized
+INFO - 2019-08-29 18:30:03 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:30:03 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:30:03 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:30:03 --> URI Class Initialized
+INFO - 2019-08-29 18:30:03 --> Router Class Initialized
+INFO - 2019-08-29 18:30:03 --> Output Class Initialized
+INFO - 2019-08-29 18:30:03 --> Security Class Initialized
+DEBUG - 2019-08-29 18:30:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:30:03 --> Input Class Initialized
+INFO - 2019-08-29 18:30:03 --> Language Class Initialized
+INFO - 2019-08-29 18:30:03 --> Language Class Initialized
+INFO - 2019-08-29 18:30:03 --> Config Class Initialized
+INFO - 2019-08-29 18:30:03 --> Loader Class Initialized
+INFO - 2019-08-29 18:30:03 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:30:03 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:30:03 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:30:03 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:30:03 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:30:03 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:30:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:30:04 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:30:04 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:30:04 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+ERROR - 2019-08-29 18:30:04 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:30:04 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:30:04 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:30:04 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:30:04 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:30:04 --> Final output sent to browser
+DEBUG - 2019-08-29 18:30:04 --> Total execution time: 1.5661
+INFO - 2019-08-29 18:32:05 --> Config Class Initialized
+INFO - 2019-08-29 18:32:05 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:32:05 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:32:05 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:32:05 --> URI Class Initialized
+INFO - 2019-08-29 18:32:05 --> Router Class Initialized
+INFO - 2019-08-29 18:32:05 --> Output Class Initialized
+INFO - 2019-08-29 18:32:05 --> Security Class Initialized
+DEBUG - 2019-08-29 18:32:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:32:06 --> Input Class Initialized
+INFO - 2019-08-29 18:32:06 --> Language Class Initialized
+INFO - 2019-08-29 18:32:06 --> Language Class Initialized
+INFO - 2019-08-29 18:32:06 --> Config Class Initialized
+INFO - 2019-08-29 18:32:06 --> Loader Class Initialized
+INFO - 2019-08-29 18:32:06 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:32:06 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:32:06 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:32:06 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:32:06 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:32:06 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:32:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:32:06 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:32:06 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:32:06 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+ERROR - 2019-08-29 18:32:06 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:32:06 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:32:07 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:32:07 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:32:07 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:32:07 --> Final output sent to browser
+DEBUG - 2019-08-29 18:32:07 --> Total execution time: 1.7000
+INFO - 2019-08-29 18:32:49 --> Config Class Initialized
+INFO - 2019-08-29 18:32:49 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:32:49 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:32:49 --> Config Class Initialized
+INFO - 2019-08-29 18:32:49 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:32:49 --> Hooks Class Initialized
+INFO - 2019-08-29 18:32:49 --> URI Class Initialized
+DEBUG - 2019-08-29 18:32:49 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:32:49 --> Router Class Initialized
+INFO - 2019-08-29 18:32:49 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:32:49 --> URI Class Initialized
+INFO - 2019-08-29 18:32:49 --> Output Class Initialized
+INFO - 2019-08-29 18:32:49 --> Router Class Initialized
+INFO - 2019-08-29 18:32:49 --> Security Class Initialized
+INFO - 2019-08-29 18:32:49 --> Output Class Initialized
+DEBUG - 2019-08-29 18:32:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:32:49 --> Security Class Initialized
+INFO - 2019-08-29 18:32:49 --> Input Class Initialized
+INFO - 2019-08-29 18:32:49 --> Language Class Initialized
+DEBUG - 2019-08-29 18:32:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:32:49 --> Language Class Initialized
+INFO - 2019-08-29 18:32:49 --> Input Class Initialized
+INFO - 2019-08-29 18:32:49 --> Config Class Initialized
+INFO - 2019-08-29 18:32:50 --> Language Class Initialized
+INFO - 2019-08-29 18:32:50 --> Loader Class Initialized
+INFO - 2019-08-29 18:32:50 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:32:50 --> Language Class Initialized
+INFO - 2019-08-29 18:32:50 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:32:50 --> Config Class Initialized
+INFO - 2019-08-29 18:32:50 --> Loader Class Initialized
+INFO - 2019-08-29 18:32:50 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:32:50 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:32:50 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:32:50 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:32:50 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:32:50 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:32:50 --> Database Driver Class Initialized
+INFO - 2019-08-29 18:32:50 --> Helper loaded: pitulungan_helper
+DEBUG - 2019-08-29 18:32:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:32:50 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:32:50 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:32:50 --> Database Driver Class Initialized
+INFO - 2019-08-29 18:32:50 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:32:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2019-08-29 18:32:51 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+ERROR - 2019-08-29 18:32:51 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:32:51 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:32:51 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:32:51 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:32:51 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:32:51 --> Final output sent to browser
+DEBUG - 2019-08-29 18:32:51 --> Total execution time: 2.3642
+INFO - 2019-08-29 18:32:51 --> Config Class Initialized
+INFO - 2019-08-29 18:32:51 --> Hooks Class Initialized
+INFO - 2019-08-29 18:32:51 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:32:51 --> Config Class Initialized
+DEBUG - 2019-08-29 18:32:51 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:32:51 --> Controller Class Initialized
+INFO - 2019-08-29 18:32:51 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:32:51 --> Config Class Initialized
+DEBUG - 2019-08-29 18:32:51 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+INFO - 2019-08-29 18:32:51 --> Hooks Class Initialized
+INFO - 2019-08-29 18:32:51 --> Hooks Class Initialized
+INFO - 2019-08-29 18:32:52 --> URI Class Initialized
+ERROR - 2019-08-29 18:32:52 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:32:52 --> UTF-8 Support Enabled
+DEBUG - 2019-08-29 18:32:52 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:32:52 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:32:52 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:32:52 --> Router Class Initialized
+ERROR - 2019-08-29 18:32:52 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+INFO - 2019-08-29 18:32:52 --> URI Class Initialized
+INFO - 2019-08-29 18:32:52 --> Output Class Initialized
+INFO - 2019-08-29 18:32:52 --> URI Class Initialized
+DEBUG - 2019-08-29 18:32:52 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+INFO - 2019-08-29 18:32:52 --> Router Class Initialized
+INFO - 2019-08-29 18:32:52 --> Security Class Initialized
+INFO - 2019-08-29 18:32:52 --> Router Class Initialized
+DEBUG - 2019-08-29 18:32:52 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:32:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:32:52 --> Output Class Initialized
+INFO - 2019-08-29 18:32:52 --> Output Class Initialized
+DEBUG - 2019-08-29 18:32:52 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:32:52 --> Final output sent to browser
+INFO - 2019-08-29 18:32:52 --> Input Class Initialized
+INFO - 2019-08-29 18:32:52 --> Security Class Initialized
+DEBUG - 2019-08-29 18:32:52 --> Total execution time: 3.3584
+INFO - 2019-08-29 18:32:52 --> Security Class Initialized
+INFO - 2019-08-29 18:32:52 --> Language Class Initialized
+DEBUG - 2019-08-29 18:32:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-08-29 18:32:52 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-08-29 18:32:52 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:32:52 --> Input Class Initialized
+INFO - 2019-08-29 18:32:52 --> Input Class Initialized
+INFO - 2019-08-29 18:32:52 --> Language Class Initialized
+INFO - 2019-08-29 18:32:52 --> Language Class Initialized
+ERROR - 2019-08-29 18:32:52 --> 404 Page Not Found: /index
+ERROR - 2019-08-29 18:32:52 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:32:54 --> Config Class Initialized
+INFO - 2019-08-29 18:32:54 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:32:54 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:32:54 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:32:54 --> URI Class Initialized
+INFO - 2019-08-29 18:32:54 --> Router Class Initialized
+INFO - 2019-08-29 18:32:54 --> Output Class Initialized
+INFO - 2019-08-29 18:32:54 --> Security Class Initialized
+DEBUG - 2019-08-29 18:32:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:32:54 --> Input Class Initialized
+INFO - 2019-08-29 18:32:54 --> Language Class Initialized
+ERROR - 2019-08-29 18:32:54 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:32:54 --> Config Class Initialized
+INFO - 2019-08-29 18:32:55 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:32:55 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:32:55 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:32:55 --> URI Class Initialized
+INFO - 2019-08-29 18:32:55 --> Router Class Initialized
+INFO - 2019-08-29 18:32:55 --> Output Class Initialized
+INFO - 2019-08-29 18:32:55 --> Security Class Initialized
+DEBUG - 2019-08-29 18:32:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:32:55 --> Input Class Initialized
+INFO - 2019-08-29 18:32:55 --> Language Class Initialized
+INFO - 2019-08-29 18:32:55 --> Language Class Initialized
+INFO - 2019-08-29 18:32:55 --> Config Class Initialized
+INFO - 2019-08-29 18:32:55 --> Loader Class Initialized
+INFO - 2019-08-29 18:32:55 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:32:55 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:32:56 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:32:56 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:32:56 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:32:56 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:32:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:32:56 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:32:56 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:32:56 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+ERROR - 2019-08-29 18:32:56 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:32:56 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:32:56 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:32:56 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:32:56 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:32:56 --> Final output sent to browser
+DEBUG - 2019-08-29 18:32:56 --> Total execution time: 1.7485
+INFO - 2019-08-29 18:33:00 --> Config Class Initialized
+INFO - 2019-08-29 18:33:00 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:33:00 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:33:00 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:33:00 --> URI Class Initialized
+INFO - 2019-08-29 18:33:00 --> Router Class Initialized
+INFO - 2019-08-29 18:33:00 --> Output Class Initialized
+INFO - 2019-08-29 18:33:00 --> Security Class Initialized
+DEBUG - 2019-08-29 18:33:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:33:00 --> Input Class Initialized
+INFO - 2019-08-29 18:33:00 --> Language Class Initialized
+INFO - 2019-08-29 18:33:00 --> Language Class Initialized
+INFO - 2019-08-29 18:33:00 --> Config Class Initialized
+INFO - 2019-08-29 18:33:01 --> Loader Class Initialized
+INFO - 2019-08-29 18:33:01 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:33:01 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:33:01 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:33:01 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:33:01 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:33:01 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:33:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:33:01 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:33:01 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:33:01 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+ERROR - 2019-08-29 18:33:01 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:33:01 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:33:01 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:33:01 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:33:01 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:33:01 --> Final output sent to browser
+DEBUG - 2019-08-29 18:33:01 --> Total execution time: 1.5217
+INFO - 2019-08-29 18:33:05 --> Config Class Initialized
+INFO - 2019-08-29 18:33:05 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:33:05 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:33:05 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:33:05 --> URI Class Initialized
+INFO - 2019-08-29 18:33:05 --> Router Class Initialized
+INFO - 2019-08-29 18:33:05 --> Output Class Initialized
+INFO - 2019-08-29 18:33:05 --> Security Class Initialized
+DEBUG - 2019-08-29 18:33:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:33:06 --> Input Class Initialized
+INFO - 2019-08-29 18:33:06 --> Language Class Initialized
+INFO - 2019-08-29 18:33:06 --> Language Class Initialized
+INFO - 2019-08-29 18:33:06 --> Config Class Initialized
+INFO - 2019-08-29 18:33:06 --> Loader Class Initialized
+INFO - 2019-08-29 18:33:06 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:33:06 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:33:06 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:33:06 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:33:06 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:33:06 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:33:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:33:06 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:33:06 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:33:06 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+ERROR - 2019-08-29 18:33:07 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:33:07 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:33:07 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:33:07 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:33:07 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:33:07 --> Final output sent to browser
+INFO - 2019-08-29 18:33:07 --> Config Class Initialized
+DEBUG - 2019-08-29 18:33:07 --> Total execution time: 1.8444
+INFO - 2019-08-29 18:33:07 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:33:07 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:33:07 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:33:07 --> URI Class Initialized
+INFO - 2019-08-29 18:33:07 --> Router Class Initialized
+INFO - 2019-08-29 18:33:07 --> Output Class Initialized
+INFO - 2019-08-29 18:33:07 --> Security Class Initialized
+DEBUG - 2019-08-29 18:33:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:33:08 --> Input Class Initialized
+INFO - 2019-08-29 18:33:08 --> Language Class Initialized
+INFO - 2019-08-29 18:33:08 --> Language Class Initialized
+INFO - 2019-08-29 18:33:08 --> Config Class Initialized
+INFO - 2019-08-29 18:33:08 --> Loader Class Initialized
+INFO - 2019-08-29 18:33:08 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:33:08 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:33:08 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:33:08 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:33:08 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:33:08 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:33:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:33:08 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:33:08 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:33:08 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/data.php
+ERROR - 2019-08-29 18:33:08 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:33:08 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:33:09 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:33:09 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:33:09 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:33:09 --> Final output sent to browser
+DEBUG - 2019-08-29 18:33:09 --> Total execution time: 1.7993
+INFO - 2019-08-29 18:33:09 --> Config Class Initialized
+INFO - 2019-08-29 18:33:09 --> Config Class Initialized
+INFO - 2019-08-29 18:33:09 --> Hooks Class Initialized
+INFO - 2019-08-29 18:33:09 --> Hooks Class Initialized
+INFO - 2019-08-29 18:33:09 --> Config Class Initialized
+DEBUG - 2019-08-29 18:33:09 --> UTF-8 Support Enabled
+DEBUG - 2019-08-29 18:33:09 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:33:09 --> Hooks Class Initialized
+INFO - 2019-08-29 18:33:09 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:33:09 --> Utf8 Class Initialized
+DEBUG - 2019-08-29 18:33:09 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:33:09 --> URI Class Initialized
+INFO - 2019-08-29 18:33:09 --> URI Class Initialized
+INFO - 2019-08-29 18:33:09 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:33:09 --> Router Class Initialized
+INFO - 2019-08-29 18:33:09 --> Router Class Initialized
+INFO - 2019-08-29 18:33:09 --> URI Class Initialized
+INFO - 2019-08-29 18:33:09 --> Output Class Initialized
+INFO - 2019-08-29 18:33:10 --> Output Class Initialized
+INFO - 2019-08-29 18:33:10 --> Router Class Initialized
+INFO - 2019-08-29 18:33:10 --> Security Class Initialized
+INFO - 2019-08-29 18:33:10 --> Output Class Initialized
+INFO - 2019-08-29 18:33:10 --> Security Class Initialized
+DEBUG - 2019-08-29 18:33:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-08-29 18:33:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:33:10 --> Security Class Initialized
+INFO - 2019-08-29 18:33:10 --> Input Class Initialized
+INFO - 2019-08-29 18:33:10 --> Input Class Initialized
+INFO - 2019-08-29 18:33:10 --> Language Class Initialized
+DEBUG - 2019-08-29 18:33:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:33:10 --> Language Class Initialized
+INFO - 2019-08-29 18:33:10 --> Input Class Initialized
+ERROR - 2019-08-29 18:33:10 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:33:10 --> Language Class Initialized
+ERROR - 2019-08-29 18:33:10 --> 404 Page Not Found: /index
+ERROR - 2019-08-29 18:33:10 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:33:11 --> Config Class Initialized
+INFO - 2019-08-29 18:33:11 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:33:11 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:33:11 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:33:11 --> URI Class Initialized
+INFO - 2019-08-29 18:33:12 --> Router Class Initialized
+INFO - 2019-08-29 18:33:12 --> Output Class Initialized
+INFO - 2019-08-29 18:33:12 --> Security Class Initialized
+DEBUG - 2019-08-29 18:33:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:33:12 --> Input Class Initialized
+INFO - 2019-08-29 18:33:12 --> Language Class Initialized
+ERROR - 2019-08-29 18:33:12 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:33:12 --> Config Class Initialized
+INFO - 2019-08-29 18:33:13 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:33:13 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:33:13 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:33:13 --> URI Class Initialized
+INFO - 2019-08-29 18:33:13 --> Router Class Initialized
+INFO - 2019-08-29 18:33:13 --> Output Class Initialized
+INFO - 2019-08-29 18:33:13 --> Security Class Initialized
+DEBUG - 2019-08-29 18:33:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:33:13 --> Input Class Initialized
+INFO - 2019-08-29 18:33:13 --> Language Class Initialized
+INFO - 2019-08-29 18:33:14 --> Config Class Initialized
+INFO - 2019-08-29 18:33:14 --> Language Class Initialized
+INFO - 2019-08-29 18:33:14 --> Hooks Class Initialized
+INFO - 2019-08-29 18:33:14 --> Config Class Initialized
+DEBUG - 2019-08-29 18:33:14 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:33:14 --> Loader Class Initialized
+INFO - 2019-08-29 18:33:14 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:33:14 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:33:14 --> URI Class Initialized
+INFO - 2019-08-29 18:33:14 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:33:14 --> Router Class Initialized
+INFO - 2019-08-29 18:33:14 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:33:14 --> Output Class Initialized
+INFO - 2019-08-29 18:33:14 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:33:14 --> Security Class Initialized
+INFO - 2019-08-29 18:33:14 --> Helper loaded: form_generator_helper
+DEBUG - 2019-08-29 18:33:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:33:14 --> Database Driver Class Initialized
+INFO - 2019-08-29 18:33:14 --> Input Class Initialized
+INFO - 2019-08-29 18:33:14 --> Language Class Initialized
+DEBUG - 2019-08-29 18:33:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:33:15 --> Language Class Initialized
+INFO - 2019-08-29 18:33:15 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:33:15 --> Config Class Initialized
+INFO - 2019-08-29 18:33:15 --> Loader Class Initialized
+INFO - 2019-08-29 18:33:15 --> Controller Class Initialized
+INFO - 2019-08-29 18:33:15 --> Helper loaded: url_helper
+DEBUG - 2019-08-29 18:33:15 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/data.php
+INFO - 2019-08-29 18:33:15 --> Helper loaded: file_helper
+ERROR - 2019-08-29 18:33:15 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+INFO - 2019-08-29 18:33:15 --> Helper loaded: form_helper
+ERROR - 2019-08-29 18:33:15 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+INFO - 2019-08-29 18:33:15 --> Helper loaded: pitulungan_helper
+DEBUG - 2019-08-29 18:33:15 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+INFO - 2019-08-29 18:33:15 --> Helper loaded: form_generator_helper
+DEBUG - 2019-08-29 18:33:15 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+INFO - 2019-08-29 18:33:15 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:33:15 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:33:15 --> Final output sent to browser
+DEBUG - 2019-08-29 18:33:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2019-08-29 18:33:15 --> Total execution time: 2.8862
+INFO - 2019-08-29 18:33:15 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:33:15 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:33:16 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+ERROR - 2019-08-29 18:33:16 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:33:16 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:33:16 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:33:16 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:33:16 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:33:16 --> Final output sent to browser
+DEBUG - 2019-08-29 18:33:16 --> Total execution time: 2.3520
+INFO - 2019-08-29 18:33:16 --> Config Class Initialized
+INFO - 2019-08-29 18:33:16 --> Hooks Class Initialized
+INFO - 2019-08-29 18:33:16 --> Config Class Initialized
+INFO - 2019-08-29 18:33:16 --> Config Class Initialized
+DEBUG - 2019-08-29 18:33:16 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:33:16 --> Hooks Class Initialized
+INFO - 2019-08-29 18:33:16 --> Hooks Class Initialized
+INFO - 2019-08-29 18:33:16 --> Utf8 Class Initialized
+DEBUG - 2019-08-29 18:33:16 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:33:16 --> URI Class Initialized
+DEBUG - 2019-08-29 18:33:16 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:33:16 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:33:16 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:33:17 --> URI Class Initialized
+INFO - 2019-08-29 18:33:17 --> Router Class Initialized
+INFO - 2019-08-29 18:33:17 --> URI Class Initialized
+INFO - 2019-08-29 18:33:17 --> Output Class Initialized
+INFO - 2019-08-29 18:33:17 --> Router Class Initialized
+INFO - 2019-08-29 18:33:17 --> Router Class Initialized
+INFO - 2019-08-29 18:33:17 --> Security Class Initialized
+INFO - 2019-08-29 18:33:17 --> Output Class Initialized
+INFO - 2019-08-29 18:33:17 --> Output Class Initialized
+INFO - 2019-08-29 18:33:17 --> Security Class Initialized
+DEBUG - 2019-08-29 18:33:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:33:17 --> Security Class Initialized
+INFO - 2019-08-29 18:33:17 --> Input Class Initialized
+DEBUG - 2019-08-29 18:33:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-08-29 18:33:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:33:17 --> Language Class Initialized
+INFO - 2019-08-29 18:33:17 --> Input Class Initialized
+INFO - 2019-08-29 18:33:17 --> Input Class Initialized
+ERROR - 2019-08-29 18:33:17 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:33:17 --> Language Class Initialized
+INFO - 2019-08-29 18:33:17 --> Language Class Initialized
+ERROR - 2019-08-29 18:33:17 --> 404 Page Not Found: /index
+ERROR - 2019-08-29 18:33:17 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:33:18 --> Config Class Initialized
+INFO - 2019-08-29 18:33:18 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:33:18 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:33:18 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:33:19 --> URI Class Initialized
+INFO - 2019-08-29 18:33:19 --> Router Class Initialized
+INFO - 2019-08-29 18:33:19 --> Output Class Initialized
+INFO - 2019-08-29 18:33:19 --> Security Class Initialized
+DEBUG - 2019-08-29 18:33:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:33:19 --> Input Class Initialized
+INFO - 2019-08-29 18:33:19 --> Language Class Initialized
+ERROR - 2019-08-29 18:33:20 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:33:20 --> Config Class Initialized
+INFO - 2019-08-29 18:33:20 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:33:20 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:33:20 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:33:20 --> URI Class Initialized
+INFO - 2019-08-29 18:33:20 --> Router Class Initialized
+INFO - 2019-08-29 18:33:20 --> Output Class Initialized
+INFO - 2019-08-29 18:33:20 --> Security Class Initialized
+DEBUG - 2019-08-29 18:33:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:33:21 --> Input Class Initialized
+INFO - 2019-08-29 18:33:21 --> Language Class Initialized
+INFO - 2019-08-29 18:33:21 --> Language Class Initialized
+INFO - 2019-08-29 18:33:21 --> Config Class Initialized
+INFO - 2019-08-29 18:33:21 --> Loader Class Initialized
+INFO - 2019-08-29 18:33:21 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:33:21 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:33:21 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:33:21 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:33:21 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:33:22 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:33:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:33:22 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:33:22 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:33:22 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+ERROR - 2019-08-29 18:33:22 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:33:22 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:33:22 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:33:22 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:33:22 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:33:22 --> Final output sent to browser
+DEBUG - 2019-08-29 18:33:22 --> Total execution time: 2.3774
+INFO - 2019-08-29 18:33:46 --> Config Class Initialized
+INFO - 2019-08-29 18:33:46 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:33:47 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:33:47 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:33:47 --> URI Class Initialized
+INFO - 2019-08-29 18:33:47 --> Router Class Initialized
+INFO - 2019-08-29 18:33:47 --> Output Class Initialized
+INFO - 2019-08-29 18:33:47 --> Config Class Initialized
+INFO - 2019-08-29 18:33:47 --> Security Class Initialized
+INFO - 2019-08-29 18:33:47 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:33:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-08-29 18:33:47 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:33:47 --> Input Class Initialized
+INFO - 2019-08-29 18:33:47 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:33:47 --> Language Class Initialized
+INFO - 2019-08-29 18:33:47 --> URI Class Initialized
+INFO - 2019-08-29 18:33:47 --> Language Class Initialized
+INFO - 2019-08-29 18:33:47 --> Router Class Initialized
+INFO - 2019-08-29 18:33:47 --> Config Class Initialized
+INFO - 2019-08-29 18:33:47 --> Loader Class Initialized
+INFO - 2019-08-29 18:33:47 --> Output Class Initialized
+INFO - 2019-08-29 18:33:47 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:33:47 --> Security Class Initialized
+INFO - 2019-08-29 18:33:48 --> Helper loaded: file_helper
+DEBUG - 2019-08-29 18:33:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:33:48 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:33:48 --> Input Class Initialized
+INFO - 2019-08-29 18:33:48 --> Language Class Initialized
+INFO - 2019-08-29 18:33:48 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:33:48 --> Language Class Initialized
+INFO - 2019-08-29 18:33:48 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:33:48 --> Config Class Initialized
+INFO - 2019-08-29 18:33:48 --> Loader Class Initialized
+INFO - 2019-08-29 18:33:48 --> Database Driver Class Initialized
+INFO - 2019-08-29 18:33:48 --> Helper loaded: url_helper
+DEBUG - 2019-08-29 18:33:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:33:48 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:33:48 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:33:48 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:33:48 --> Controller Class Initialized
+INFO - 2019-08-29 18:33:48 --> Helper loaded: pitulungan_helper
+DEBUG - 2019-08-29 18:33:48 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+INFO - 2019-08-29 18:33:48 --> Helper loaded: form_generator_helper
+ERROR - 2019-08-29 18:33:48 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+INFO - 2019-08-29 18:33:49 --> Database Driver Class Initialized
+ERROR - 2019-08-29 18:33:49 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:33:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2019-08-29 18:33:49 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:33:49 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:33:49 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:33:49 --> Final output sent to browser
+DEBUG - 2019-08-29 18:33:49 --> Total execution time: 2.4669
+INFO - 2019-08-29 18:33:49 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:33:49 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:33:49 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+ERROR - 2019-08-29 18:33:49 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:33:49 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:33:49 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:33:49 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:33:49 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:33:49 --> Final output sent to browser
+INFO - 2019-08-29 18:33:50 --> Config Class Initialized
+DEBUG - 2019-08-29 18:33:50 --> Total execution time: 2.6190
+INFO - 2019-08-29 18:33:50 --> Config Class Initialized
+INFO - 2019-08-29 18:33:50 --> Hooks Class Initialized
+INFO - 2019-08-29 18:33:50 --> Hooks Class Initialized
+INFO - 2019-08-29 18:33:50 --> Config Class Initialized
+DEBUG - 2019-08-29 18:33:50 --> UTF-8 Support Enabled
+DEBUG - 2019-08-29 18:33:50 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:33:50 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:33:50 --> Hooks Class Initialized
+INFO - 2019-08-29 18:33:50 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:33:50 --> URI Class Initialized
+DEBUG - 2019-08-29 18:33:50 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:33:50 --> URI Class Initialized
+INFO - 2019-08-29 18:33:50 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:33:50 --> Router Class Initialized
+INFO - 2019-08-29 18:33:50 --> URI Class Initialized
+INFO - 2019-08-29 18:33:50 --> Router Class Initialized
+INFO - 2019-08-29 18:33:50 --> Output Class Initialized
+INFO - 2019-08-29 18:33:50 --> Output Class Initialized
+INFO - 2019-08-29 18:33:50 --> Router Class Initialized
+INFO - 2019-08-29 18:33:50 --> Security Class Initialized
+INFO - 2019-08-29 18:33:50 --> Security Class Initialized
+INFO - 2019-08-29 18:33:50 --> Output Class Initialized
+DEBUG - 2019-08-29 18:33:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:33:50 --> Security Class Initialized
+DEBUG - 2019-08-29 18:33:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:33:50 --> Input Class Initialized
+INFO - 2019-08-29 18:33:51 --> Input Class Initialized
+INFO - 2019-08-29 18:33:51 --> Language Class Initialized
+DEBUG - 2019-08-29 18:33:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:33:51 --> Language Class Initialized
+INFO - 2019-08-29 18:33:51 --> Input Class Initialized
+ERROR - 2019-08-29 18:33:51 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:33:51 --> Language Class Initialized
+ERROR - 2019-08-29 18:33:51 --> 404 Page Not Found: /index
+ERROR - 2019-08-29 18:33:51 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:33:52 --> Config Class Initialized
+INFO - 2019-08-29 18:33:52 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:33:52 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:33:52 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:33:52 --> URI Class Initialized
+INFO - 2019-08-29 18:33:52 --> Router Class Initialized
+INFO - 2019-08-29 18:33:52 --> Output Class Initialized
+INFO - 2019-08-29 18:33:52 --> Security Class Initialized
+DEBUG - 2019-08-29 18:33:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:33:52 --> Input Class Initialized
+INFO - 2019-08-29 18:33:52 --> Language Class Initialized
+ERROR - 2019-08-29 18:33:53 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:33:53 --> Config Class Initialized
+INFO - 2019-08-29 18:33:53 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:33:53 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:33:53 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:33:53 --> URI Class Initialized
+INFO - 2019-08-29 18:33:53 --> Router Class Initialized
+INFO - 2019-08-29 18:33:53 --> Output Class Initialized
+INFO - 2019-08-29 18:33:53 --> Security Class Initialized
+DEBUG - 2019-08-29 18:33:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:33:53 --> Input Class Initialized
+INFO - 2019-08-29 18:33:53 --> Language Class Initialized
+INFO - 2019-08-29 18:33:53 --> Language Class Initialized
+INFO - 2019-08-29 18:33:54 --> Config Class Initialized
+INFO - 2019-08-29 18:33:54 --> Loader Class Initialized
+INFO - 2019-08-29 18:33:54 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:33:54 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:33:54 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:33:54 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:33:54 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:33:54 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:33:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:33:54 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:33:54 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:33:54 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+ERROR - 2019-08-29 18:33:54 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:33:54 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:33:54 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:33:54 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:33:54 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:33:54 --> Final output sent to browser
+DEBUG - 2019-08-29 18:33:55 --> Total execution time: 1.7974
+INFO - 2019-08-29 18:34:02 --> Config Class Initialized
+INFO - 2019-08-29 18:34:02 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:34:03 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:34:03 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:34:03 --> URI Class Initialized
+INFO - 2019-08-29 18:34:03 --> Router Class Initialized
+INFO - 2019-08-29 18:34:03 --> Output Class Initialized
+INFO - 2019-08-29 18:34:03 --> Security Class Initialized
+DEBUG - 2019-08-29 18:34:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:34:03 --> Input Class Initialized
+INFO - 2019-08-29 18:34:03 --> Language Class Initialized
+INFO - 2019-08-29 18:34:03 --> Language Class Initialized
+INFO - 2019-08-29 18:34:03 --> Config Class Initialized
+INFO - 2019-08-29 18:34:03 --> Loader Class Initialized
+INFO - 2019-08-29 18:34:03 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:34:03 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:34:03 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:34:03 --> Config Class Initialized
+INFO - 2019-08-29 18:34:04 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:34:04 --> Hooks Class Initialized
+INFO - 2019-08-29 18:34:04 --> Helper loaded: form_generator_helper
+DEBUG - 2019-08-29 18:34:04 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:34:04 --> Database Driver Class Initialized
+INFO - 2019-08-29 18:34:04 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:34:04 --> URI Class Initialized
+DEBUG - 2019-08-29 18:34:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:34:04 --> Router Class Initialized
+INFO - 2019-08-29 18:34:04 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:34:04 --> Output Class Initialized
+INFO - 2019-08-29 18:34:04 --> Controller Class Initialized
+INFO - 2019-08-29 18:34:04 --> Security Class Initialized
+DEBUG - 2019-08-29 18:34:04 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+DEBUG - 2019-08-29 18:34:04 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2019-08-29 18:34:04 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+INFO - 2019-08-29 18:34:04 --> Input Class Initialized
+INFO - 2019-08-29 18:34:04 --> Language Class Initialized
+ERROR - 2019-08-29 18:34:04 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+INFO - 2019-08-29 18:34:04 --> Language Class Initialized
+DEBUG - 2019-08-29 18:34:04 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+INFO - 2019-08-29 18:34:04 --> Config Class Initialized
+INFO - 2019-08-29 18:34:05 --> Loader Class Initialized
+DEBUG - 2019-08-29 18:34:05 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+INFO - 2019-08-29 18:34:05 --> Helper loaded: url_helper
+DEBUG - 2019-08-29 18:34:05 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:34:05 --> Final output sent to browser
+INFO - 2019-08-29 18:34:05 --> Helper loaded: file_helper
+DEBUG - 2019-08-29 18:34:05 --> Total execution time: 2.2850
+INFO - 2019-08-29 18:34:05 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:34:05 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:34:05 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:34:05 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:34:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:34:05 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:34:05 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:34:05 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/data.php
+ERROR - 2019-08-29 18:34:05 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:34:05 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:34:05 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:34:05 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:34:06 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:34:06 --> Final output sent to browser
+INFO - 2019-08-29 18:34:06 --> Config Class Initialized
+DEBUG - 2019-08-29 18:34:06 --> Total execution time: 2.1481
+INFO - 2019-08-29 18:34:06 --> Config Class Initialized
+INFO - 2019-08-29 18:34:06 --> Hooks Class Initialized
+INFO - 2019-08-29 18:34:06 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:34:06 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:34:06 --> Config Class Initialized
+DEBUG - 2019-08-29 18:34:06 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:34:06 --> Hooks Class Initialized
+INFO - 2019-08-29 18:34:06 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:34:06 --> Utf8 Class Initialized
+DEBUG - 2019-08-29 18:34:06 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:34:06 --> URI Class Initialized
+INFO - 2019-08-29 18:34:06 --> URI Class Initialized
+INFO - 2019-08-29 18:34:06 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:34:06 --> Router Class Initialized
+INFO - 2019-08-29 18:34:06 --> Router Class Initialized
+INFO - 2019-08-29 18:34:06 --> URI Class Initialized
+INFO - 2019-08-29 18:34:06 --> Output Class Initialized
+INFO - 2019-08-29 18:34:06 --> Output Class Initialized
+INFO - 2019-08-29 18:34:06 --> Router Class Initialized
+INFO - 2019-08-29 18:34:07 --> Security Class Initialized
+INFO - 2019-08-29 18:34:07 --> Output Class Initialized
+INFO - 2019-08-29 18:34:07 --> Security Class Initialized
+DEBUG - 2019-08-29 18:34:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-08-29 18:34:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:34:07 --> Security Class Initialized
+INFO - 2019-08-29 18:34:07 --> Input Class Initialized
+INFO - 2019-08-29 18:34:07 --> Input Class Initialized
+DEBUG - 2019-08-29 18:34:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:34:07 --> Language Class Initialized
+INFO - 2019-08-29 18:34:07 --> Language Class Initialized
+INFO - 2019-08-29 18:34:07 --> Input Class Initialized
+ERROR - 2019-08-29 18:34:07 --> 404 Page Not Found: /index
+ERROR - 2019-08-29 18:34:07 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:34:07 --> Language Class Initialized
+ERROR - 2019-08-29 18:34:07 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:34:09 --> Config Class Initialized
+INFO - 2019-08-29 18:34:09 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:34:09 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:34:09 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:34:09 --> URI Class Initialized
+INFO - 2019-08-29 18:34:09 --> Router Class Initialized
+INFO - 2019-08-29 18:34:09 --> Output Class Initialized
+INFO - 2019-08-29 18:34:09 --> Security Class Initialized
+DEBUG - 2019-08-29 18:34:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:34:09 --> Input Class Initialized
+INFO - 2019-08-29 18:34:09 --> Language Class Initialized
+ERROR - 2019-08-29 18:34:09 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:34:10 --> Config Class Initialized
+INFO - 2019-08-29 18:34:10 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:34:10 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:34:10 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:34:10 --> URI Class Initialized
+INFO - 2019-08-29 18:34:10 --> Router Class Initialized
+INFO - 2019-08-29 18:34:10 --> Output Class Initialized
+INFO - 2019-08-29 18:34:10 --> Security Class Initialized
+DEBUG - 2019-08-29 18:34:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:34:11 --> Input Class Initialized
+INFO - 2019-08-29 18:34:11 --> Language Class Initialized
+INFO - 2019-08-29 18:34:11 --> Language Class Initialized
+INFO - 2019-08-29 18:34:11 --> Config Class Initialized
+INFO - 2019-08-29 18:34:11 --> Loader Class Initialized
+INFO - 2019-08-29 18:34:11 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:34:11 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:34:11 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:34:11 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:34:11 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:34:11 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:34:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:34:12 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:34:12 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:34:12 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/data.php
+ERROR - 2019-08-29 18:34:12 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:34:12 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:34:12 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:34:12 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:34:12 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:34:12 --> Final output sent to browser
+DEBUG - 2019-08-29 18:34:12 --> Total execution time: 2.2433
+INFO - 2019-08-29 18:35:19 --> Config Class Initialized
+INFO - 2019-08-29 18:35:19 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:35:19 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:35:19 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:35:19 --> URI Class Initialized
+INFO - 2019-08-29 18:35:19 --> Router Class Initialized
+INFO - 2019-08-29 18:35:19 --> Output Class Initialized
+INFO - 2019-08-29 18:35:19 --> Security Class Initialized
+DEBUG - 2019-08-29 18:35:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:35:19 --> Input Class Initialized
+INFO - 2019-08-29 18:35:19 --> Config Class Initialized
+INFO - 2019-08-29 18:35:19 --> Language Class Initialized
+INFO - 2019-08-29 18:35:19 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:35:19 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:35:20 --> Language Class Initialized
+INFO - 2019-08-29 18:35:20 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:35:20 --> Config Class Initialized
+INFO - 2019-08-29 18:35:20 --> URI Class Initialized
+INFO - 2019-08-29 18:35:20 --> Loader Class Initialized
+INFO - 2019-08-29 18:35:20 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:35:20 --> Router Class Initialized
+INFO - 2019-08-29 18:35:20 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:35:20 --> Output Class Initialized
+INFO - 2019-08-29 18:35:20 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:35:20 --> Security Class Initialized
+INFO - 2019-08-29 18:35:20 --> Helper loaded: pitulungan_helper
+DEBUG - 2019-08-29 18:35:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:35:20 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:35:20 --> Input Class Initialized
+INFO - 2019-08-29 18:35:20 --> Language Class Initialized
+INFO - 2019-08-29 18:35:20 --> Database Driver Class Initialized
+INFO - 2019-08-29 18:35:20 --> Language Class Initialized
+DEBUG - 2019-08-29 18:35:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:35:20 --> Config Class Initialized
+INFO - 2019-08-29 18:35:20 --> Loader Class Initialized
+INFO - 2019-08-29 18:35:20 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:35:20 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:35:21 --> Controller Class Initialized
+INFO - 2019-08-29 18:35:21 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:35:21 --> Helper loaded: form_helper
+DEBUG - 2019-08-29 18:35:21 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/data.php
+INFO - 2019-08-29 18:35:21 --> Helper loaded: pitulungan_helper
+ERROR - 2019-08-29 18:35:21 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+INFO - 2019-08-29 18:35:21 --> Helper loaded: form_generator_helper
+ERROR - 2019-08-29 18:35:21 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+INFO - 2019-08-29 18:35:21 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:35:21 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:35:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2019-08-29 18:35:21 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:35:21 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:35:21 --> Final output sent to browser
+DEBUG - 2019-08-29 18:35:21 --> Total execution time: 2.5366
+INFO - 2019-08-29 18:35:21 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:35:21 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:35:22 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/data.php
+ERROR - 2019-08-29 18:35:22 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:35:22 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:35:22 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:35:22 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:35:22 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:35:22 --> Final output sent to browser
+INFO - 2019-08-29 18:35:22 --> Config Class Initialized
+DEBUG - 2019-08-29 18:35:22 --> Total execution time: 2.5614
+INFO - 2019-08-29 18:35:22 --> Config Class Initialized
+INFO - 2019-08-29 18:35:22 --> Hooks Class Initialized
+INFO - 2019-08-29 18:35:22 --> Config Class Initialized
+INFO - 2019-08-29 18:35:22 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:35:22 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:35:22 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:35:22 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:35:22 --> Utf8 Class Initialized
+DEBUG - 2019-08-29 18:35:22 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:35:22 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:35:22 --> URI Class Initialized
+INFO - 2019-08-29 18:35:22 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:35:22 --> URI Class Initialized
+INFO - 2019-08-29 18:35:23 --> URI Class Initialized
+INFO - 2019-08-29 18:35:23 --> Router Class Initialized
+INFO - 2019-08-29 18:35:23 --> Router Class Initialized
+INFO - 2019-08-29 18:35:23 --> Router Class Initialized
+INFO - 2019-08-29 18:35:23 --> Output Class Initialized
+INFO - 2019-08-29 18:35:23 --> Output Class Initialized
+INFO - 2019-08-29 18:35:23 --> Security Class Initialized
+INFO - 2019-08-29 18:35:23 --> Output Class Initialized
+INFO - 2019-08-29 18:35:23 --> Security Class Initialized
+INFO - 2019-08-29 18:35:23 --> Security Class Initialized
+DEBUG - 2019-08-29 18:35:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-08-29 18:35:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:35:23 --> Input Class Initialized
+DEBUG - 2019-08-29 18:35:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:35:23 --> Input Class Initialized
+INFO - 2019-08-29 18:35:23 --> Language Class Initialized
+INFO - 2019-08-29 18:35:23 --> Input Class Initialized
+INFO - 2019-08-29 18:35:23 --> Language Class Initialized
+ERROR - 2019-08-29 18:35:23 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:35:23 --> Language Class Initialized
+ERROR - 2019-08-29 18:35:23 --> 404 Page Not Found: /index
+ERROR - 2019-08-29 18:35:23 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:35:24 --> Config Class Initialized
+INFO - 2019-08-29 18:35:24 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:35:24 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:35:24 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:35:25 --> URI Class Initialized
+INFO - 2019-08-29 18:35:25 --> Router Class Initialized
+INFO - 2019-08-29 18:35:25 --> Output Class Initialized
+INFO - 2019-08-29 18:35:25 --> Security Class Initialized
+DEBUG - 2019-08-29 18:35:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:35:25 --> Input Class Initialized
+INFO - 2019-08-29 18:35:25 --> Language Class Initialized
+ERROR - 2019-08-29 18:35:25 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:35:25 --> Config Class Initialized
+INFO - 2019-08-29 18:35:25 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:35:25 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:35:25 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:35:26 --> URI Class Initialized
+INFO - 2019-08-29 18:35:26 --> Router Class Initialized
+INFO - 2019-08-29 18:35:26 --> Output Class Initialized
+INFO - 2019-08-29 18:35:26 --> Security Class Initialized
+DEBUG - 2019-08-29 18:35:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:35:26 --> Input Class Initialized
+INFO - 2019-08-29 18:35:26 --> Language Class Initialized
+INFO - 2019-08-29 18:35:26 --> Language Class Initialized
+INFO - 2019-08-29 18:35:26 --> Config Class Initialized
+INFO - 2019-08-29 18:35:26 --> Loader Class Initialized
+INFO - 2019-08-29 18:35:26 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:35:26 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:35:26 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:35:26 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:35:26 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:35:26 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:35:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:35:27 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:35:27 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:35:27 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/data.php
+ERROR - 2019-08-29 18:35:27 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:35:27 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:35:27 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:35:27 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:35:27 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:35:27 --> Final output sent to browser
+DEBUG - 2019-08-29 18:35:27 --> Total execution time: 1.7826
+INFO - 2019-08-29 18:35:32 --> Config Class Initialized
+INFO - 2019-08-29 18:35:32 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:35:32 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:35:32 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:35:32 --> URI Class Initialized
+INFO - 2019-08-29 18:35:32 --> Router Class Initialized
+INFO - 2019-08-29 18:35:32 --> Output Class Initialized
+INFO - 2019-08-29 18:35:32 --> Security Class Initialized
+DEBUG - 2019-08-29 18:35:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:35:32 --> Input Class Initialized
+INFO - 2019-08-29 18:35:32 --> Language Class Initialized
+INFO - 2019-08-29 18:35:32 --> Language Class Initialized
+INFO - 2019-08-29 18:35:32 --> Config Class Initialized
+INFO - 2019-08-29 18:35:32 --> Loader Class Initialized
+INFO - 2019-08-29 18:35:32 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:35:32 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:35:32 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:35:32 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:35:32 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:35:33 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:35:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:35:33 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:35:33 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:35:33 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/data.php
+ERROR - 2019-08-29 18:35:33 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:35:33 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:35:33 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:35:33 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:35:33 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:35:33 --> Final output sent to browser
+DEBUG - 2019-08-29 18:35:33 --> Total execution time: 1.5495
+INFO - 2019-08-29 18:35:36 --> Config Class Initialized
+INFO - 2019-08-29 18:35:36 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:35:36 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:35:36 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:35:36 --> URI Class Initialized
+INFO - 2019-08-29 18:35:36 --> Router Class Initialized
+INFO - 2019-08-29 18:35:36 --> Output Class Initialized
+INFO - 2019-08-29 18:35:36 --> Security Class Initialized
+DEBUG - 2019-08-29 18:35:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:35:37 --> Input Class Initialized
+INFO - 2019-08-29 18:35:37 --> Language Class Initialized
+INFO - 2019-08-29 18:35:37 --> Language Class Initialized
+INFO - 2019-08-29 18:35:37 --> Config Class Initialized
+INFO - 2019-08-29 18:35:37 --> Loader Class Initialized
+INFO - 2019-08-29 18:35:37 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:35:37 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:35:37 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:35:37 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:35:37 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:35:37 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:35:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:35:37 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:35:37 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:35:37 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+ERROR - 2019-08-29 18:35:37 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:35:37 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:35:38 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:35:38 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:35:38 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:35:38 --> Final output sent to browser
+INFO - 2019-08-29 18:35:38 --> Config Class Initialized
+DEBUG - 2019-08-29 18:35:38 --> Total execution time: 1.6696
+INFO - 2019-08-29 18:35:38 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:35:38 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:35:38 --> Config Class Initialized
+INFO - 2019-08-29 18:35:38 --> Config Class Initialized
+INFO - 2019-08-29 18:35:38 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:35:38 --> Hooks Class Initialized
+INFO - 2019-08-29 18:35:38 --> Hooks Class Initialized
+INFO - 2019-08-29 18:35:38 --> URI Class Initialized
+DEBUG - 2019-08-29 18:35:38 --> UTF-8 Support Enabled
+DEBUG - 2019-08-29 18:35:38 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:35:38 --> Router Class Initialized
+INFO - 2019-08-29 18:35:38 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:35:38 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:35:38 --> URI Class Initialized
+INFO - 2019-08-29 18:35:38 --> URI Class Initialized
+INFO - 2019-08-29 18:35:38 --> Output Class Initialized
+INFO - 2019-08-29 18:35:39 --> Router Class Initialized
+INFO - 2019-08-29 18:35:39 --> Security Class Initialized
+INFO - 2019-08-29 18:35:39 --> Router Class Initialized
+INFO - 2019-08-29 18:35:39 --> Output Class Initialized
+DEBUG - 2019-08-29 18:35:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:35:39 --> Output Class Initialized
+INFO - 2019-08-29 18:35:39 --> Security Class Initialized
+INFO - 2019-08-29 18:35:39 --> Input Class Initialized
+INFO - 2019-08-29 18:35:39 --> Security Class Initialized
+INFO - 2019-08-29 18:35:39 --> Language Class Initialized
+DEBUG - 2019-08-29 18:35:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-08-29 18:35:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:35:39 --> Input Class Initialized
+ERROR - 2019-08-29 18:35:39 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:35:39 --> Input Class Initialized
+INFO - 2019-08-29 18:35:39 --> Language Class Initialized
+INFO - 2019-08-29 18:35:39 --> Language Class Initialized
+ERROR - 2019-08-29 18:35:39 --> 404 Page Not Found: /index
+ERROR - 2019-08-29 18:35:39 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:35:40 --> Config Class Initialized
+INFO - 2019-08-29 18:35:40 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:35:40 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:35:40 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:35:40 --> URI Class Initialized
+INFO - 2019-08-29 18:35:41 --> Router Class Initialized
+INFO - 2019-08-29 18:35:41 --> Output Class Initialized
+INFO - 2019-08-29 18:35:41 --> Security Class Initialized
+DEBUG - 2019-08-29 18:35:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:35:41 --> Input Class Initialized
+INFO - 2019-08-29 18:35:41 --> Language Class Initialized
+ERROR - 2019-08-29 18:35:41 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:35:41 --> Config Class Initialized
+INFO - 2019-08-29 18:35:41 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:35:41 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:35:41 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:35:41 --> URI Class Initialized
+INFO - 2019-08-29 18:35:41 --> Router Class Initialized
+INFO - 2019-08-29 18:35:42 --> Output Class Initialized
+INFO - 2019-08-29 18:35:42 --> Security Class Initialized
+DEBUG - 2019-08-29 18:35:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:35:42 --> Input Class Initialized
+INFO - 2019-08-29 18:35:42 --> Language Class Initialized
+INFO - 2019-08-29 18:35:42 --> Language Class Initialized
+INFO - 2019-08-29 18:35:42 --> Config Class Initialized
+INFO - 2019-08-29 18:35:42 --> Loader Class Initialized
+INFO - 2019-08-29 18:35:42 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:35:42 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:35:42 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:35:42 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:35:42 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:35:42 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:35:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:35:42 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:35:43 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:35:43 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+ERROR - 2019-08-29 18:35:43 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:35:43 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:35:43 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:35:43 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:35:43 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:35:43 --> Final output sent to browser
+DEBUG - 2019-08-29 18:35:43 --> Total execution time: 1.7812
+INFO - 2019-08-29 18:36:05 --> Config Class Initialized
+INFO - 2019-08-29 18:36:05 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:36:05 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:36:05 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:36:05 --> URI Class Initialized
+INFO - 2019-08-29 18:36:05 --> Router Class Initialized
+INFO - 2019-08-29 18:36:05 --> Output Class Initialized
+INFO - 2019-08-29 18:36:05 --> Security Class Initialized
+DEBUG - 2019-08-29 18:36:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:36:05 --> Input Class Initialized
+INFO - 2019-08-29 18:36:05 --> Language Class Initialized
+INFO - 2019-08-29 18:36:05 --> Language Class Initialized
+INFO - 2019-08-29 18:36:05 --> Config Class Initialized
+INFO - 2019-08-29 18:36:05 --> Loader Class Initialized
+INFO - 2019-08-29 18:36:05 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:36:05 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:36:05 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:36:05 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:36:06 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:36:06 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:36:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:36:06 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:36:06 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:36:06 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+ERROR - 2019-08-29 18:36:06 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:36:06 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:36:06 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:36:06 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:36:06 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:36:06 --> Final output sent to browser
+DEBUG - 2019-08-29 18:36:06 --> Total execution time: 1.5587
+INFO - 2019-08-29 18:36:23 --> Config Class Initialized
+INFO - 2019-08-29 18:36:23 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:36:23 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:36:23 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:36:24 --> URI Class Initialized
+INFO - 2019-08-29 18:36:24 --> Router Class Initialized
+INFO - 2019-08-29 18:36:24 --> Output Class Initialized
+INFO - 2019-08-29 18:36:24 --> Security Class Initialized
+DEBUG - 2019-08-29 18:36:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:36:24 --> Input Class Initialized
+INFO - 2019-08-29 18:36:24 --> Language Class Initialized
+INFO - 2019-08-29 18:36:24 --> Language Class Initialized
+INFO - 2019-08-29 18:36:24 --> Config Class Initialized
+INFO - 2019-08-29 18:36:24 --> Config Class Initialized
+INFO - 2019-08-29 18:36:24 --> Loader Class Initialized
+INFO - 2019-08-29 18:36:24 --> Hooks Class Initialized
+INFO - 2019-08-29 18:36:24 --> Helper loaded: url_helper
+DEBUG - 2019-08-29 18:36:24 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:36:24 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:36:24 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:36:24 --> URI Class Initialized
+INFO - 2019-08-29 18:36:24 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:36:24 --> Router Class Initialized
+INFO - 2019-08-29 18:36:24 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:36:24 --> Output Class Initialized
+INFO - 2019-08-29 18:36:25 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:36:25 --> Security Class Initialized
+INFO - 2019-08-29 18:36:25 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:36:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-08-29 18:36:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:36:25 --> Input Class Initialized
+INFO - 2019-08-29 18:36:25 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:36:25 --> Language Class Initialized
+INFO - 2019-08-29 18:36:25 --> Controller Class Initialized
+INFO - 2019-08-29 18:36:25 --> Language Class Initialized
+DEBUG - 2019-08-29 18:36:25 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+INFO - 2019-08-29 18:36:25 --> Config Class Initialized
+INFO - 2019-08-29 18:36:25 --> Loader Class Initialized
+ERROR - 2019-08-29 18:36:25 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+INFO - 2019-08-29 18:36:25 --> Helper loaded: url_helper
+ERROR - 2019-08-29 18:36:25 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+INFO - 2019-08-29 18:36:25 --> Helper loaded: file_helper
+DEBUG - 2019-08-29 18:36:25 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+INFO - 2019-08-29 18:36:25 --> Helper loaded: form_helper
+DEBUG - 2019-08-29 18:36:25 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+INFO - 2019-08-29 18:36:25 --> Helper loaded: pitulungan_helper
+DEBUG - 2019-08-29 18:36:25 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:36:26 --> Final output sent to browser
+INFO - 2019-08-29 18:36:26 --> Helper loaded: form_generator_helper
+DEBUG - 2019-08-29 18:36:26 --> Total execution time: 2.2221
+INFO - 2019-08-29 18:36:26 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:36:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:36:26 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:36:26 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:36:26 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+ERROR - 2019-08-29 18:36:26 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:36:26 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:36:26 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:36:26 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:36:26 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:36:26 --> Final output sent to browser
+INFO - 2019-08-29 18:36:26 --> Config Class Initialized
+DEBUG - 2019-08-29 18:36:26 --> Total execution time: 2.2405
+INFO - 2019-08-29 18:36:26 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:36:27 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:36:27 --> Config Class Initialized
+INFO - 2019-08-29 18:36:27 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:36:27 --> Config Class Initialized
+INFO - 2019-08-29 18:36:27 --> Hooks Class Initialized
+INFO - 2019-08-29 18:36:27 --> URI Class Initialized
+INFO - 2019-08-29 18:36:27 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:36:27 --> UTF-8 Support Enabled
+DEBUG - 2019-08-29 18:36:27 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:36:27 --> Router Class Initialized
+INFO - 2019-08-29 18:36:27 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:36:27 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:36:27 --> Output Class Initialized
+INFO - 2019-08-29 18:36:27 --> URI Class Initialized
+INFO - 2019-08-29 18:36:27 --> URI Class Initialized
+INFO - 2019-08-29 18:36:27 --> Router Class Initialized
+INFO - 2019-08-29 18:36:27 --> Security Class Initialized
+INFO - 2019-08-29 18:36:27 --> Router Class Initialized
+INFO - 2019-08-29 18:36:27 --> Output Class Initialized
+DEBUG - 2019-08-29 18:36:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:36:27 --> Output Class Initialized
+INFO - 2019-08-29 18:36:27 --> Input Class Initialized
+INFO - 2019-08-29 18:36:27 --> Security Class Initialized
+INFO - 2019-08-29 18:36:28 --> Language Class Initialized
+INFO - 2019-08-29 18:36:28 --> Security Class Initialized
+DEBUG - 2019-08-29 18:36:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-08-29 18:36:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:36:28 --> Input Class Initialized
+ERROR - 2019-08-29 18:36:28 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:36:28 --> Input Class Initialized
+INFO - 2019-08-29 18:36:28 --> Language Class Initialized
+INFO - 2019-08-29 18:36:28 --> Language Class Initialized
+ERROR - 2019-08-29 18:36:28 --> 404 Page Not Found: /index
+ERROR - 2019-08-29 18:36:28 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:36:29 --> Config Class Initialized
+INFO - 2019-08-29 18:36:29 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:36:29 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:36:29 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:36:29 --> URI Class Initialized
+INFO - 2019-08-29 18:36:29 --> Router Class Initialized
+INFO - 2019-08-29 18:36:29 --> Output Class Initialized
+INFO - 2019-08-29 18:36:29 --> Security Class Initialized
+DEBUG - 2019-08-29 18:36:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:36:30 --> Input Class Initialized
+INFO - 2019-08-29 18:36:30 --> Language Class Initialized
+ERROR - 2019-08-29 18:36:30 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:36:30 --> Config Class Initialized
+INFO - 2019-08-29 18:36:30 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:36:30 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:36:30 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:36:30 --> URI Class Initialized
+INFO - 2019-08-29 18:36:30 --> Router Class Initialized
+INFO - 2019-08-29 18:36:30 --> Output Class Initialized
+INFO - 2019-08-29 18:36:30 --> Security Class Initialized
+DEBUG - 2019-08-29 18:36:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:36:31 --> Input Class Initialized
+INFO - 2019-08-29 18:36:31 --> Language Class Initialized
+INFO - 2019-08-29 18:36:31 --> Language Class Initialized
+INFO - 2019-08-29 18:36:31 --> Config Class Initialized
+INFO - 2019-08-29 18:36:31 --> Loader Class Initialized
+INFO - 2019-08-29 18:36:31 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:36:31 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:36:31 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:36:31 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:36:31 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:36:31 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:36:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:36:31 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:36:31 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:36:31 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+ERROR - 2019-08-29 18:36:31 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:36:31 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:36:32 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:36:32 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:36:32 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:36:32 --> Final output sent to browser
+DEBUG - 2019-08-29 18:36:32 --> Total execution time: 1.8311
+INFO - 2019-08-29 18:36:57 --> Config Class Initialized
+INFO - 2019-08-29 18:36:57 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:36:57 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:36:57 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:36:57 --> URI Class Initialized
+INFO - 2019-08-29 18:36:58 --> Router Class Initialized
+INFO - 2019-08-29 18:36:58 --> Output Class Initialized
+INFO - 2019-08-29 18:36:58 --> Security Class Initialized
+DEBUG - 2019-08-29 18:36:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:36:58 --> Input Class Initialized
+INFO - 2019-08-29 18:36:58 --> Language Class Initialized
+INFO - 2019-08-29 18:36:58 --> Language Class Initialized
+INFO - 2019-08-29 18:36:58 --> Config Class Initialized
+INFO - 2019-08-29 18:36:58 --> Config Class Initialized
+INFO - 2019-08-29 18:36:58 --> Loader Class Initialized
+INFO - 2019-08-29 18:36:58 --> Hooks Class Initialized
+INFO - 2019-08-29 18:36:58 --> Helper loaded: url_helper
+DEBUG - 2019-08-29 18:36:58 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:36:58 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:36:58 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:36:58 --> URI Class Initialized
+INFO - 2019-08-29 18:36:58 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:36:59 --> Router Class Initialized
+INFO - 2019-08-29 18:36:59 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:36:59 --> Output Class Initialized
+INFO - 2019-08-29 18:36:59 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:36:59 --> Security Class Initialized
+INFO - 2019-08-29 18:36:59 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:36:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-08-29 18:36:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:36:59 --> Input Class Initialized
+INFO - 2019-08-29 18:36:59 --> Language Class Initialized
+INFO - 2019-08-29 18:36:59 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:36:59 --> Controller Class Initialized
+INFO - 2019-08-29 18:36:59 --> Language Class Initialized
+DEBUG - 2019-08-29 18:36:59 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+INFO - 2019-08-29 18:36:59 --> Config Class Initialized
+INFO - 2019-08-29 18:36:59 --> Loader Class Initialized
+ERROR - 2019-08-29 18:36:59 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+INFO - 2019-08-29 18:36:59 --> Helper loaded: url_helper
+ERROR - 2019-08-29 18:36:59 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+INFO - 2019-08-29 18:36:59 --> Helper loaded: file_helper
+DEBUG - 2019-08-29 18:36:59 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+INFO - 2019-08-29 18:37:00 --> Helper loaded: form_helper
+DEBUG - 2019-08-29 18:37:00 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+INFO - 2019-08-29 18:37:00 --> Helper loaded: pitulungan_helper
+DEBUG - 2019-08-29 18:37:00 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:37:00 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:37:00 --> Final output sent to browser
+INFO - 2019-08-29 18:37:00 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:37:00 --> Total execution time: 2.5108
+DEBUG - 2019-08-29 18:37:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:37:00 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:37:00 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:37:00 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/data.php
+ERROR - 2019-08-29 18:37:00 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:37:00 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:37:00 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:37:00 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:37:00 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:37:00 --> Final output sent to browser
+INFO - 2019-08-29 18:37:01 --> Config Class Initialized
+DEBUG - 2019-08-29 18:37:01 --> Total execution time: 2.4296
+INFO - 2019-08-29 18:37:01 --> Config Class Initialized
+INFO - 2019-08-29 18:37:01 --> Hooks Class Initialized
+INFO - 2019-08-29 18:37:01 --> Hooks Class Initialized
+INFO - 2019-08-29 18:37:01 --> Config Class Initialized
+DEBUG - 2019-08-29 18:37:01 --> UTF-8 Support Enabled
+DEBUG - 2019-08-29 18:37:01 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:37:01 --> Hooks Class Initialized
+INFO - 2019-08-29 18:37:01 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:37:01 --> Utf8 Class Initialized
+DEBUG - 2019-08-29 18:37:01 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:37:01 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:37:01 --> URI Class Initialized
+INFO - 2019-08-29 18:37:01 --> URI Class Initialized
+INFO - 2019-08-29 18:37:01 --> Router Class Initialized
+INFO - 2019-08-29 18:37:01 --> URI Class Initialized
+INFO - 2019-08-29 18:37:01 --> Router Class Initialized
+INFO - 2019-08-29 18:37:01 --> Output Class Initialized
+INFO - 2019-08-29 18:37:01 --> Router Class Initialized
+INFO - 2019-08-29 18:37:01 --> Output Class Initialized
+INFO - 2019-08-29 18:37:01 --> Security Class Initialized
+INFO - 2019-08-29 18:37:01 --> Output Class Initialized
+INFO - 2019-08-29 18:37:01 --> Security Class Initialized
+INFO - 2019-08-29 18:37:02 --> Security Class Initialized
+DEBUG - 2019-08-29 18:37:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-08-29 18:37:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:37:02 --> Input Class Initialized
+DEBUG - 2019-08-29 18:37:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:37:02 --> Input Class Initialized
+INFO - 2019-08-29 18:37:02 --> Language Class Initialized
+INFO - 2019-08-29 18:37:02 --> Input Class Initialized
+INFO - 2019-08-29 18:37:02 --> Language Class Initialized
+INFO - 2019-08-29 18:37:02 --> Language Class Initialized
+ERROR - 2019-08-29 18:37:02 --> 404 Page Not Found: /index
+ERROR - 2019-08-29 18:37:02 --> 404 Page Not Found: /index
+ERROR - 2019-08-29 18:37:02 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:37:03 --> Config Class Initialized
+INFO - 2019-08-29 18:37:03 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:37:03 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:37:03 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:37:03 --> URI Class Initialized
+INFO - 2019-08-29 18:37:03 --> Router Class Initialized
+INFO - 2019-08-29 18:37:03 --> Output Class Initialized
+INFO - 2019-08-29 18:37:03 --> Security Class Initialized
+DEBUG - 2019-08-29 18:37:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:37:04 --> Input Class Initialized
+INFO - 2019-08-29 18:37:04 --> Language Class Initialized
+ERROR - 2019-08-29 18:37:04 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:37:04 --> Config Class Initialized
+INFO - 2019-08-29 18:37:04 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:37:04 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:37:04 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:37:04 --> URI Class Initialized
+INFO - 2019-08-29 18:37:04 --> Router Class Initialized
+INFO - 2019-08-29 18:37:04 --> Output Class Initialized
+INFO - 2019-08-29 18:37:04 --> Security Class Initialized
+DEBUG - 2019-08-29 18:37:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:37:05 --> Input Class Initialized
+INFO - 2019-08-29 18:37:05 --> Language Class Initialized
+INFO - 2019-08-29 18:37:05 --> Language Class Initialized
+INFO - 2019-08-29 18:37:05 --> Config Class Initialized
+INFO - 2019-08-29 18:37:05 --> Loader Class Initialized
+INFO - 2019-08-29 18:37:05 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:37:05 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:37:05 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:37:05 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:37:05 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:37:05 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:37:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:37:05 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:37:05 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:37:05 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/data.php
+ERROR - 2019-08-29 18:37:05 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:37:06 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:37:06 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:37:06 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:37:06 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:37:06 --> Final output sent to browser
+DEBUG - 2019-08-29 18:37:06 --> Total execution time: 1.8654
+INFO - 2019-08-29 18:37:06 --> Config Class Initialized
+INFO - 2019-08-29 18:37:06 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:37:06 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:37:06 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:37:06 --> URI Class Initialized
+INFO - 2019-08-29 18:37:06 --> Router Class Initialized
+INFO - 2019-08-29 18:37:06 --> Output Class Initialized
+INFO - 2019-08-29 18:37:07 --> Security Class Initialized
+DEBUG - 2019-08-29 18:37:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:37:07 --> Input Class Initialized
+INFO - 2019-08-29 18:37:07 --> Language Class Initialized
+INFO - 2019-08-29 18:37:07 --> Language Class Initialized
+INFO - 2019-08-29 18:37:07 --> Config Class Initialized
+INFO - 2019-08-29 18:37:07 --> Loader Class Initialized
+INFO - 2019-08-29 18:37:07 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:37:07 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:37:07 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:37:07 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:37:07 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:37:07 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:37:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:37:07 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:37:07 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:37:07 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+ERROR - 2019-08-29 18:37:08 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:37:08 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:37:08 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:37:08 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:37:08 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:37:08 --> Final output sent to browser
+INFO - 2019-08-29 18:37:08 --> Config Class Initialized
+DEBUG - 2019-08-29 18:37:08 --> Total execution time: 1.7219
+INFO - 2019-08-29 18:37:08 --> Hooks Class Initialized
+INFO - 2019-08-29 18:37:08 --> Config Class Initialized
+DEBUG - 2019-08-29 18:37:08 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:37:08 --> Config Class Initialized
+INFO - 2019-08-29 18:37:08 --> Hooks Class Initialized
+INFO - 2019-08-29 18:37:08 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:37:08 --> Hooks Class Initialized
+INFO - 2019-08-29 18:37:08 --> URI Class Initialized
+DEBUG - 2019-08-29 18:37:08 --> UTF-8 Support Enabled
+DEBUG - 2019-08-29 18:37:08 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:37:08 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:37:08 --> Router Class Initialized
+INFO - 2019-08-29 18:37:08 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:37:09 --> URI Class Initialized
+INFO - 2019-08-29 18:37:09 --> Output Class Initialized
+INFO - 2019-08-29 18:37:09 --> URI Class Initialized
+INFO - 2019-08-29 18:37:09 --> Router Class Initialized
+INFO - 2019-08-29 18:37:09 --> Security Class Initialized
+INFO - 2019-08-29 18:37:09 --> Router Class Initialized
+INFO - 2019-08-29 18:37:09 --> Output Class Initialized
+DEBUG - 2019-08-29 18:37:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:37:09 --> Output Class Initialized
+INFO - 2019-08-29 18:37:09 --> Security Class Initialized
+INFO - 2019-08-29 18:37:09 --> Input Class Initialized
+INFO - 2019-08-29 18:37:09 --> Security Class Initialized
+INFO - 2019-08-29 18:37:09 --> Language Class Initialized
+DEBUG - 2019-08-29 18:37:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-08-29 18:37:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:37:09 --> Input Class Initialized
+ERROR - 2019-08-29 18:37:09 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:37:09 --> Input Class Initialized
+INFO - 2019-08-29 18:37:09 --> Language Class Initialized
+INFO - 2019-08-29 18:37:09 --> Language Class Initialized
+ERROR - 2019-08-29 18:37:09 --> 404 Page Not Found: /index
+ERROR - 2019-08-29 18:37:09 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:37:10 --> Config Class Initialized
+INFO - 2019-08-29 18:37:10 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:37:10 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:37:10 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:37:11 --> URI Class Initialized
+INFO - 2019-08-29 18:37:11 --> Router Class Initialized
+INFO - 2019-08-29 18:37:11 --> Output Class Initialized
+INFO - 2019-08-29 18:37:11 --> Security Class Initialized
+DEBUG - 2019-08-29 18:37:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:37:11 --> Input Class Initialized
+INFO - 2019-08-29 18:37:11 --> Language Class Initialized
+ERROR - 2019-08-29 18:37:11 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:37:11 --> Config Class Initialized
+INFO - 2019-08-29 18:37:11 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:37:11 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:37:11 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:37:11 --> URI Class Initialized
+INFO - 2019-08-29 18:37:12 --> Router Class Initialized
+INFO - 2019-08-29 18:37:12 --> Output Class Initialized
+INFO - 2019-08-29 18:37:12 --> Security Class Initialized
+DEBUG - 2019-08-29 18:37:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:37:12 --> Input Class Initialized
+INFO - 2019-08-29 18:37:12 --> Language Class Initialized
+INFO - 2019-08-29 18:37:12 --> Language Class Initialized
+INFO - 2019-08-29 18:37:12 --> Config Class Initialized
+INFO - 2019-08-29 18:37:12 --> Loader Class Initialized
+INFO - 2019-08-29 18:37:12 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:37:12 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:37:12 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:37:12 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:37:12 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:37:13 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:37:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:37:13 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:37:13 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:37:13 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+ERROR - 2019-08-29 18:37:13 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:37:13 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:37:13 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:37:13 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:37:13 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:37:13 --> Final output sent to browser
+DEBUG - 2019-08-29 18:37:13 --> Total execution time: 1.9662
+INFO - 2019-08-29 18:39:49 --> Config Class Initialized
+INFO - 2019-08-29 18:39:49 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:39:50 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:39:50 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:39:50 --> URI Class Initialized
+INFO - 2019-08-29 18:39:50 --> Router Class Initialized
+INFO - 2019-08-29 18:39:50 --> Output Class Initialized
+INFO - 2019-08-29 18:39:50 --> Security Class Initialized
+DEBUG - 2019-08-29 18:39:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:39:50 --> Input Class Initialized
+INFO - 2019-08-29 18:39:50 --> Language Class Initialized
+INFO - 2019-08-29 18:39:50 --> Language Class Initialized
+INFO - 2019-08-29 18:39:50 --> Config Class Initialized
+INFO - 2019-08-29 18:39:50 --> Config Class Initialized
+INFO - 2019-08-29 18:39:50 --> Hooks Class Initialized
+INFO - 2019-08-29 18:39:50 --> Loader Class Initialized
+INFO - 2019-08-29 18:39:50 --> Helper loaded: url_helper
+DEBUG - 2019-08-29 18:39:51 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:39:51 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:39:51 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:39:51 --> URI Class Initialized
+INFO - 2019-08-29 18:39:51 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:39:51 --> Router Class Initialized
+INFO - 2019-08-29 18:39:51 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:39:51 --> Output Class Initialized
+INFO - 2019-08-29 18:39:51 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:39:51 --> Security Class Initialized
+INFO - 2019-08-29 18:39:51 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:39:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2019-08-29 18:39:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:39:51 --> Input Class Initialized
+INFO - 2019-08-29 18:39:51 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:39:51 --> Language Class Initialized
+INFO - 2019-08-29 18:39:52 --> Controller Class Initialized
+INFO - 2019-08-29 18:39:52 --> Language Class Initialized
+DEBUG - 2019-08-29 18:39:52 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/detail.php
+INFO - 2019-08-29 18:39:52 --> Config Class Initialized
+INFO - 2019-08-29 18:39:52 --> Loader Class Initialized
+ERROR - 2019-08-29 18:39:52 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+INFO - 2019-08-29 18:39:52 --> Helper loaded: url_helper
+ERROR - 2019-08-29 18:39:52 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+INFO - 2019-08-29 18:39:52 --> Helper loaded: file_helper
+DEBUG - 2019-08-29 18:39:52 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+INFO - 2019-08-29 18:39:52 --> Helper loaded: form_helper
+DEBUG - 2019-08-29 18:39:52 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+INFO - 2019-08-29 18:39:52 --> Helper loaded: pitulungan_helper
+DEBUG - 2019-08-29 18:39:52 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:39:52 --> Final output sent to browser
+INFO - 2019-08-29 18:39:52 --> Helper loaded: form_generator_helper
+DEBUG - 2019-08-29 18:39:52 --> Total execution time: 2.8997
+INFO - 2019-08-29 18:39:52 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:39:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:39:53 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:39:53 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:39:53 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/data.php
+ERROR - 2019-08-29 18:39:53 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:39:53 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:39:53 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:39:53 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:39:53 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:39:53 --> Final output sent to browser
+INFO - 2019-08-29 18:39:53 --> Config Class Initialized
+DEBUG - 2019-08-29 18:39:53 --> Total execution time: 2.8257
+INFO - 2019-08-29 18:39:53 --> Config Class Initialized
+INFO - 2019-08-29 18:39:53 --> Hooks Class Initialized
+INFO - 2019-08-29 18:39:53 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:39:53 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:39:53 --> Config Class Initialized
+DEBUG - 2019-08-29 18:39:54 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:39:54 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:39:54 --> Hooks Class Initialized
+INFO - 2019-08-29 18:39:54 --> Utf8 Class Initialized
+DEBUG - 2019-08-29 18:39:54 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:39:54 --> URI Class Initialized
+INFO - 2019-08-29 18:39:54 --> URI Class Initialized
+INFO - 2019-08-29 18:39:54 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:39:54 --> Router Class Initialized
+INFO - 2019-08-29 18:39:54 --> URI Class Initialized
+INFO - 2019-08-29 18:39:54 --> Router Class Initialized
+INFO - 2019-08-29 18:39:54 --> Output Class Initialized
+INFO - 2019-08-29 18:39:54 --> Router Class Initialized
+INFO - 2019-08-29 18:39:54 --> Output Class Initialized
+INFO - 2019-08-29 18:39:54 --> Security Class Initialized
+INFO - 2019-08-29 18:39:54 --> Output Class Initialized
+INFO - 2019-08-29 18:39:54 --> Security Class Initialized
+DEBUG - 2019-08-29 18:39:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:39:54 --> Security Class Initialized
+DEBUG - 2019-08-29 18:39:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:39:54 --> Input Class Initialized
+INFO - 2019-08-29 18:39:54 --> Input Class Initialized
+DEBUG - 2019-08-29 18:39:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:39:54 --> Language Class Initialized
+INFO - 2019-08-29 18:39:55 --> Language Class Initialized
+INFO - 2019-08-29 18:39:55 --> Input Class Initialized
+ERROR - 2019-08-29 18:39:55 --> 404 Page Not Found: /index
+ERROR - 2019-08-29 18:39:55 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:39:55 --> Language Class Initialized
+ERROR - 2019-08-29 18:39:55 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:39:56 --> Config Class Initialized
+INFO - 2019-08-29 18:39:56 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:39:56 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:39:56 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:39:56 --> URI Class Initialized
+INFO - 2019-08-29 18:39:56 --> Router Class Initialized
+INFO - 2019-08-29 18:39:56 --> Output Class Initialized
+INFO - 2019-08-29 18:39:57 --> Security Class Initialized
+DEBUG - 2019-08-29 18:39:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:39:57 --> Input Class Initialized
+INFO - 2019-08-29 18:39:57 --> Language Class Initialized
+ERROR - 2019-08-29 18:39:57 --> 404 Page Not Found: /index
+INFO - 2019-08-29 18:39:57 --> Config Class Initialized
+INFO - 2019-08-29 18:39:57 --> Hooks Class Initialized
+DEBUG - 2019-08-29 18:39:57 --> UTF-8 Support Enabled
+INFO - 2019-08-29 18:39:57 --> Utf8 Class Initialized
+INFO - 2019-08-29 18:39:57 --> URI Class Initialized
+INFO - 2019-08-29 18:39:57 --> Router Class Initialized
+INFO - 2019-08-29 18:39:57 --> Output Class Initialized
+INFO - 2019-08-29 18:39:57 --> Security Class Initialized
+DEBUG - 2019-08-29 18:39:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2019-08-29 18:39:58 --> Input Class Initialized
+INFO - 2019-08-29 18:39:58 --> Language Class Initialized
+INFO - 2019-08-29 18:39:58 --> Language Class Initialized
+INFO - 2019-08-29 18:39:58 --> Config Class Initialized
+INFO - 2019-08-29 18:39:58 --> Loader Class Initialized
+INFO - 2019-08-29 18:39:58 --> Helper loaded: url_helper
+INFO - 2019-08-29 18:39:58 --> Helper loaded: file_helper
+INFO - 2019-08-29 18:39:58 --> Helper loaded: form_helper
+INFO - 2019-08-29 18:39:58 --> Helper loaded: pitulungan_helper
+INFO - 2019-08-29 18:39:58 --> Helper loaded: form_generator_helper
+INFO - 2019-08-29 18:39:58 --> Database Driver Class Initialized
+DEBUG - 2019-08-29 18:39:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2019-08-29 18:39:58 --> Session: Class initialized using 'files' driver.
+INFO - 2019-08-29 18:39:58 --> Controller Class Initialized
+DEBUG - 2019-08-29 18:39:58 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/saran/data.php
+ERROR - 2019-08-29 18:39:59 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+ERROR - 2019-08-29 18:39:59 --> Severity: Notice --> Undefined property: stdClass::$privilege C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules\Admin\views\general\top_scr_admin.php 72
+DEBUG - 2019-08-29 18:39:59 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/top_scr_admin.php
+DEBUG - 2019-08-29 18:39:59 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/general/footer_admin.php
+DEBUG - 2019-08-29 18:39:59 --> File loaded: C:\xampp\htdocs\unmerbaya-pmb-admin\pirantos\modules/admin/views/main_admin.php
+INFO - 2019-08-29 18:39:59 --> Final output sent to browser
+DEBUG - 2019-08-29 18:39:59 --> Total execution time: 1.7836
