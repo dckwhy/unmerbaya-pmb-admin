@@ -7,12 +7,12 @@
                         <div class="row align-items-center">
                             <div class="col-md-12">
                                 <div class="page-header-title">
-                                    <h5 class="m-b-10">Users</h5>
+                                    <h5 class="m-b-10">Information</h5>
                                 </div>
                                 <ul class="breadcrumb">
                                  <li class="breadcrumb-item"><a href="#">
                                     <i class="feather icon-user"></i></a></li>
-                                    <li class="breadcrumb-item"><a href="javascript:">Users</a></li>
+                                    <li class="breadcrumb-item"><a href="javascript:">Information</a></li>
                                     <li class="breadcrumb-item"><a href="javascript:">Detail</a></li>
                                 </ul>
                             </div>
@@ -25,7 +25,7 @@
                             <div class="col-sm-12">
                                 <div class="card">
                                     <div class="card-header">
-                                        <h5>Detail Users</h5> 
+                                        <h5>Detail Information</h5> 
                                         <a href="<?php echo base_url('admin/information/add') ?>" class="btn shadow-2 btn-success pull-right">Add</a> 
                                         <a href="<?php echo base_url('admin/information/data') ?>" class="btn shadow-2 btn-primary pull-right">Data</a> 
                                     </div>
@@ -37,7 +37,7 @@
                                     <form  id="input_data">
                                         <div class="card-block"> 
                                             <div class="row">
-                                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                                <div class="col-md-12 col-sm-12 col-xs-12">
                                                     <label>Image</label>
                                                     <br>
                                                     <?php
@@ -50,7 +50,40 @@
                                                     <img src="<?php echo base_url('prabotan/image/information/'.@$row->img) ?>" alt="" id="preview_" style="width:30%; margin:20px auto;">
                                                     <br><br>
                                                 </div>
-                                                <div class="col-md-12 col-sm-12 col-xs-12">
+                                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                                    <div class="form-group">
+                                                        <label>Judul</label>
+                                                        <input type="text" class="form-control" value="<?= $row->judul ?>" required name="judul" disabled>
+                                                    </div>
+                                                </div>
+
+                                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                                    <div class="form-group">
+                                                        <label>Kategori</label>
+                                                        <input type="text" class="form-control" value="<?= $row->kategori ?>" required name="kategori" disabled>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                                    <div class="form-group">
+                                                        <label>Tanggal Publish</label>
+                                                        <input type="text" class="form-control" value="<?= $row->tanggal_publish ?>" required name="tanggal_publish" disabled>
+                                                    </div>
+                                                </div>
+
+                                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                                    <div class="form-group">
+                                                        <label>Apreciate</label>
+                                                        <input type="text" class="form-control" value="<?= $row->apreciate ?>" required name="apreciate" disabled>
+                                                    </div>
+                                                </div>
+
+                                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                                    <div class="form-group">
+                                                        <label>Reader</label>
+                                                        <input type="text" class="form-control" value="<?= $row->reader ?>" required name="reader" disabled>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6 col-sm-6 col-xs-12">
                                                     <div class="form-group">
                                                         <label>Content</label>
                                                         <textarea type="text" class="form-control" disabled name="content"><?= $row->content ?></textarea>
@@ -112,7 +145,7 @@
             $('.loading').hide(); 
             $.ajax({
                 type :"post",  
-                url : "<?php echo base_url('admin/Users/detail') ?>",  
+                url : "<?php echo base_url('admin/information/detail') ?>",  
                 cache :false,
                 data: $(this).serialize(),
                 dataType: 'json',
@@ -120,7 +153,7 @@
                     if (data.msg == 'success') {
                         $('.sukses_menyimpan').click();
                         setTimeout(function(){
-                            window.location = "<?php echo base_url('admin/users/detail') ?>";
+                            window.location = "<?php echo base_url('admin/information/detail') ?>";
                         },2000)
                     }else{
                         $('.gagal_menyimpan').click();  

@@ -15,7 +15,7 @@ class Contact extends MY_Controller {
 
 	public function index()
 	{ 
-		$data['konten'] = $this->load->view('contact/data', NULL, TRUE);
+		$data['konten'] = $this->load->view('contact/inbox', NULL, TRUE);
 		$this->load->view ('admin/main_admin', $data);
 	}
 	public function data()
@@ -183,6 +183,36 @@ class Contact extends MY_Controller {
 	// 	}
 	// 	echo json_encode($feedback);
 	// }
+
+	public function reply_message(){
+		$data = $this->input->post();
+		$data['date_send'] = date ('Y-m-d H:m');
+
+		$data_insert = $this->db->insert('data_message', $data);
+
+		if ($data_insert) {
+			$feedback ['msg'] = 'success';
+		}else{
+			$feedback ['msg'] = 'fail';
+		}
+
+		echo json_encode($feedback);
+	}
+
+	public function update_status_message(){
+		$data = $this->input->post('id');
+
+		$status['status'] = 0;
+		$this->db->where('mahasiswa_id', $data);
+		$update = $this->db->update('data_message', $status);
+		if ($update) {
+			$feedback['msg'] =  'success';
+		}else{
+			$feedback['msg'] =  'success';
+		}
+		echo json_encode($feedback);
+	}
+
 	public function delete_data()
 	{
 		$feedback = array();

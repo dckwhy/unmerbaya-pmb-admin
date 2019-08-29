@@ -57,6 +57,23 @@
                                                 </div>
                                                 <div class="col-md-6 col-sm-6 col-xs-12">
                                                     <div class="form-group">
+                                                        <label>Judul</label>
+                                                        <input type="text" class="form-control" value="<?= $row->judul ?>" required name="judul">
+                                                    </div>
+                                                </div>
+
+                                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                                    <div class="form-group">
+                                                        <label>Kategori</label>
+                                                        <select class="form-control" name="kategori" required>
+                                                            <option <?php if(@$row->kategori == 'Umum'){ echo 'selected'; } ?> value="Umum">Umum</option> 
+                                                            <option <?php if(@$row->kategori == 'Pendaftaran'){ echo 'selected'; } ?> value="Pendaftaran">Pendaftaran</option>
+                                                            <option <?php if(@$row->kategori == 'Jadwal Tes'){ echo 'selected'; } ?> value="Jadwal Tes">Jadwal Tes</option> 
+                                                        </select>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                                    <div class="form-group">
                                                         <label>Content</label>
                                                         <textarea type="text" class="form-control" required name="content"><?= $row->content ?></textarea>
                                                     </div>

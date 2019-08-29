@@ -111,39 +111,12 @@
                             </a>
                         </li>
 
-                        <li data-username="HOME"
-                            class="nav-item <?php if($uri1 == 'home'){ echo 'active'; } ?>">
-                            <a href="<?php echo base_url('admin/home') ?>" class="nav-link">
-                                <span class="pcoded-micon"><i class="feather icon-home"></i></span><span
-                                    class="pcoded-mtext">Home</span>
-                            </a>
-                        </li>
-
                         <li data-username="Persyaratan" class="nav-item <?php if($uri1 == 'persyaratan'){ echo 'active'; } ?>">
                             <a href="<?php echo base_url('admin/persyaratan') ?>" class="nav-link">
                                 <span class="pcoded-micon"><i class="feather icon-user-check"></i></span><span
                                     class="pcoded-mtext">Persyaratan</span>
                             </a>
                         </li>
-
-                        
-
-                        <li data-username="Jadwal Pendaftaran"
-                            class="nav-item <?php if($uri1 == 'jadwal_pendaftaran'){ echo 'active'; } ?>">
-                            <a href="<?php echo base_url('admin/jadwal_pendaftaran') ?>" class="nav-link">
-                                <span class="pcoded-micon"><i class="feather icon-calendar"></i></span><span
-                                    class="pcoded-mtext">Jadwal Pendaftaran</span>
-                            </a>
-                        </li>
-
-                        <li data-username="Jadwal Tes"
-                            class="nav-item <?php if($uri1 == 'jadwal_tes'){ echo 'active'; } ?>">
-                            <a href="<?php echo base_url('admin/jadwal_tes') ?>" class="nav-link">
-                                <span class="pcoded-micon"><i class="feather icon-edit"></i></span><span
-                                    class="pcoded-mtext">Jadwal Tes</span>
-                            </a>
-                        </li>
-
 
                         <li data-username="Information"
                             class="nav-item <?php if($uri1 == 'information'){ echo 'active'; } ?>">
@@ -154,7 +127,7 @@
                         </li>
 
                         <li data-username="CONTACT US" class="nav-item <?php if($uri1 == 'contact'){ echo 'active'; } ?>">
-                            <a href="<?php echo base_url('admin/contact/data') ?>" class="nav-link">
+                            <a href="<?php echo base_url('admin/contact') ?>" class="nav-link">
                                 <span class="pcoded-micon"><i class="feather icon-mail"></i></span><span
                                     class="pcoded-mtext">Contact Us</span>
                             </a>

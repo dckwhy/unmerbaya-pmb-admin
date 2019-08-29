@@ -49,7 +49,7 @@
                                                             <td><?= $value->phone ?></td>
                                                             <td><?= $value->email ?></td>
                                                             <td>
-                                                                <?= get_detail_edit_delete_js($value->id) ?>
+                                                                <?= get_detail_delete_js($value->id) ?>
                                                             </td>
                                                         </tr> 
                                                     <?php }

@@ -53,6 +53,24 @@
 
                                                 <div class="col-md-6 col-sm-6 col-xs-12">
                                                     <div class="form-group">
+                                                        <label>Judul</label>
+                                                        <input type="text" class="form-control" required name="judul">
+                                                    </div>
+                                                </div>
+
+                                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                                    <div class="form-group">
+                                                        <label>Kategori</label>
+                                                        <select class="form-control" name="kategori" required>
+                                                            <option>Umum</option> 
+                                                            <option>Pendaftaran</option>
+                                                            <option>Jadwal Tes</option> 
+                                                        </select>
+                                                    </div>
+                                                </div>
+
+                                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                                    <div class="form-group">
                                                         <label>Content</label>
                                                         <textarea type="text" class="form-control" required name="content"></textarea>
                                                     </div>

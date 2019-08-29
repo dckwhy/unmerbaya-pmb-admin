@@ -99,6 +99,8 @@ class Information extends MY_Controller {
 			$response['file']['img'] = $upload['img'];
 		}
 
+		$data['tanggal_publish'] = date('y-m-d');
+
 		$data_insert = $this->db->insert('data_informasi', $data);
 		if ($data_insert) {
 			$response['act_msg'] = 'sukses';

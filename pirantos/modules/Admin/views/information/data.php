@@ -47,7 +47,7 @@
                                                     foreach ($get_user as $value) { ?>
                                                     <tr>
                                                         <td><?= $value->img ?></td>
-                                                        <td><?= $value->content ?></td>
+                                                        <td><?= text_limit($value->content, 5) ?></td>
                                                         <td>
                                                             <?= get_detail_edit_delete_js($value->id) ?>
                                                         </td>

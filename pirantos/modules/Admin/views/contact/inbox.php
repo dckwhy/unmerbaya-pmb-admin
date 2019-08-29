@@ -32,32 +32,43 @@
                                             <table id="zero-configuration" class="display table nowrap table-striped table-hover datatables" style="width:100%">
                                                 <thead>
                                                     <tr>
+                                                        <th>Status</th>
                                                         <th>Date</th>
                                                         <th>Nama</th>
-                                                        <th>Email</th>
-                                                        <th>Telp</th>
-                                                        <th>Subject</th>
                                                         <th>Action</th>
                                                     </tr>
                                                 </thead>
                                                 <tbody>
-                                                 <?php 
+                                                 <?php
+                                                 $this->db->where('sender', 'mahasiswa');
                                                  $this->db->order_by('id', 'desc');
-                                                    // $this->db->where('jabatan !=', 'Super user');
-                                                 $get_user = $this->db->get('mail_box')->result();
-                                                 foreach ($get_user as $value) {
+                                                 $this->db->group_by('mahasiswa_id');
+                                                 $get_message = $this->db->get('data_message')->result();
+
+                                                 $this->db->where('sender', 'mahasiswa');
+                                                 $this->db->where('status', 1);
+                                                 $get_status = $this->db->get('data_message')->result();
+
+                                                 foreach ($get_message as $value) {
+                                                    $this->db->where('id', $value->mahasiswa_id);
+                                                    $data_mahasiswa = $this->db->get('data_user')->row();
                                                     ?>
                                                     <tr>
-                                                        <td><?php 
-                                                        $d = new DateTime($value->date_sending);
-                                                        echo $d->format('Y-m-d')?></td>
-                                                        <td><?php echo $value->first_name?></td>
-                                                        <td><?php echo $value->email?></td>
-                                                        <td><?php echo $value->telp?></td>
-                                                        <td><?php echo $value->subject?></td>
+                                                        <td>
+                                                        <?php
+                                                        if (count($get_status) > 0) { ?>
+                                                            <div style="height:15px; width:15px; background-color:red; border-radius:50%"><span class="ml-4">New Message</span></div>
+                                                        <?php } ?>
+                                                        </td>
+                                                        <td>
+                                                            <?php
+                                                        $d = new DateTime($value->date_send);
+                                                        echo $d->format('Y-m-d')
+                                                        ?></td>
+                                                        <td><?php echo $data_mahasiswa->name?></td>
                                                         <td>
                                                             <?= 
-                                                            get_detail_delete_js($value->id) ?>
+                                                            get_detail_delete_js($data_mahasiswa->id) ?>
                                                         </td>
                                                     </tr> 
                                                     <?php 
@@ -77,8 +88,25 @@
 </div>
 </div>
 <script>
-    function get_detail (id) {  
-        window.location = ('<?= base_url() ?>admin/Contact/detail/'+id)
+    function get_detail (id) { 
+        $.ajax({
+            type: "post",
+            url: "<?= base_url('admin/contact/update_status_message/') ?>",
+            cache: false,
+            data:{
+                id: id
+            },
+            dataType: "json",
+            success : function (data) {
+                if (data.msg == 'success') {
+                    window.location = ('<?= base_url() ?>admin/Contact/detail/'+id)
+                }
+            },
+            error :function(){
+                alert('Network Error');
+            }
+        });
+        return false;
     }
 </script>
 <script>
