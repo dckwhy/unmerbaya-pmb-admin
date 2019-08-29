@@ -182,16 +182,16 @@
                             <a href="javascript:" class="dropdown-toggle" data-toggle="dropdown">
                                 <i class="icon feather icon-settings"></i>
                             </a>
-                            <!-- <?php 
+                            <?php 
                          $admin_auth = $this->session->userdata('admin_auth'); 
-                        ?> -->
+                        ?>
                             <div class="dropdown-menu dropdown-menu-right profile-notification">
                                 <div class="pro-head">
                                     <img src="<?php echo base_url() ?>prabotan/admin/images/user/avatar-2.jpg"
                                         class="img-radius" alt="User-Profile-Image">
                                     <span>
-                                        <!-- <?php 
-                                         echo $admin_auth->name ?> -->
+                                         <?php 
+                                         echo $admin_auth->name ?>
                                     </span>
                                     <a href="<?php echo base_url('authenticate/logout') ?>" class="dud-logout"
                                         title="Logout">

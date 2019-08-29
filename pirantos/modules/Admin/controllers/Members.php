@@ -7,10 +7,10 @@ class Members extends MY_Controller {
 	public function __construct()
 	{
 		parent::__construct();
-		// $admin_auth = $this->session->userdata('admin_auth');
-		// if(!$admin_auth){
-		// 	redirect(base_url('authenticate'));
-		// }
+		$admin_auth = $this->session->userdata('admin_auth');
+		if(!$admin_auth){
+			redirect(base_url('authenticate'));
+		}
 	}
 
 	public function index()
