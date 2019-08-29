@@ -11,7 +11,7 @@
         <meta name="keywords"
             content="admin templates, bootstrap admin templates, bootstrap 4, dashboard, dashboard templets, sass admin templets, html admin templates, responsive, bootstrap admin templates free download,premium bootstrap admin templates, datta able, datta able bootstrap admin template">
         <meta name="author" content="Codedthemes" />
-        <link rel="icon" href="<?php echo base_url() ?>prabotan/admin/images/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="<?php echo base_url() ?>prabotan/image/logo/unmerbaya.png" type="image/x-icon">
         <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js"></script>
         <script src="<?php echo base_url() ?>prabotan/js/jquery-2.2.3.min.js"></script>
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
@@ -51,7 +51,7 @@
                 <div class="navbar-brand header-logo">
                     <a href="default/index.html" class="b-brand">
                         <div class="b-bg">
-                            <i class="feather icon-trending-up"></i>
+                            <img src="<?php echo base_url() ?>prabotan/image/logo/unmerbaya.png" width="130%">
                         </div>
                         <span class="b-title">Admin</span>
                     </a>
